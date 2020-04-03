@@ -1,0 +1,6 @@
+> [!ALERT] All resource groups for this lab have been pre-created. Any steps that reference creating resource groups can either be skipped or select the pre-existing one.
+>
+> For access to Azure, use the following credentials:
+>
+> - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
+> - Password: +++@lab.CloudPortalCredential(LabUser).Password+++
