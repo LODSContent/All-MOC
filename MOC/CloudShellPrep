@@ -18,5 +18,7 @@
     |--|--|
     |Storage account (Create new)|+++cloudshell@lab.LabInstance.Id+++|
     |File share (create new)|+++shellstorage+++|
+    
+    >[!KNOWLEDGE] If you receive a "Tenant User Over Quota" error, change your **Cloud Shell Region** to an alternative region.
 
 1. After the cloud shell initializes and puts you at a text prompt, exit the shell.
