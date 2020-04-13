@@ -1,3 +1,3 @@
-> [!ALERT] If you receive any errors from cloud shell regarding a resource group name. Run the command again after adding +++**-@lab.LabInstance.GlobalId**+++ to the resource group name.  
+> [!ALERT] If you receive any errors from cloud shell regarding a resource group name, run the command again after adding +++**-@lab.LabInstance.GlobalId**+++ to the resource group name.  
 >
 > Example: Change ***Resource_Group_Name*** to *Resource_Group_Name*-**@lab.LabInstance.GlobalId**
