@@ -16,7 +16,7 @@
 
     |||
     |--|--|
-    |Resource group|A Resource Group except for NetworkWaterRG|
+    |Resource group|A Resource Group that is **not** NetworkWaterRG|
     |Storage account (Create new)|+++cloudshell@lab.LabInstance.Id+++|
     |File share (create new)|+++shellstorage+++|
 
