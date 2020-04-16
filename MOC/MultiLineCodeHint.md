@@ -1,4 +1,4 @@
-> [!hint] If you have to copy multiple lines of commands of a code block into application or cloud shell prompt, consider doing the following:
+> [!hint] If you have to copy multiple lines of commands of a code block into an application or cloud shell prompt, consider doing the following:
 >
 1. Open Notepad.
 2. Select the +++_+++ symbol above the code block to copy the code block into Notepad. 
