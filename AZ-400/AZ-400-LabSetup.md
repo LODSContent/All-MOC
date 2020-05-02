@@ -40,15 +40,15 @@ In this task, you will create a new Azure DevOps organization that is associated
 
 1. [] In the new tab, on the We need a few more details page, select **Continue**.
 
-    !IMAGE[dqa702zn.jpg](dqa702zn.jpg)
+    !IMAGE[dqa702zn.jpg](Screens/dqa702zn.jpg)
 
 1. [] On the Get started with Azure DevOps page, select **Create a new organization**.
 
-    !IMAGE[yowpweq4.jpg](yowpweq4.jpg)
+    !IMAGE[yowpweq4.jpg](Screens/yowpweq4.jpg)
 
 1. [] Clear the check box to receive more information, and then select **Continue**.
 
-    !IMAGE[1g1uvq5x.jpg](1g1uvq5x.jpg)
+    !IMAGE[1g1uvq5x.jpg](Screens/1g1uvq5x.jpg)
 
 1. [] Make a note of the default organization name, and enter it in the text box below.
 
@@ -56,7 +56,7 @@ In this task, you will create a new Azure DevOps organization that is associated
 
     @lab.TextBox(OrgName)
 
-    !IMAGE[8bcqeagf.jpg](8bcqeagf.jpg)
+    !IMAGE[8bcqeagf.jpg](Screens/8bcqeagf.jpg)
 
 
 1. [] Select **Continue**. 
@@ -69,19 +69,19 @@ In this task, you will create a new Azure DevOps organization that is associated
 
 1. [] Select your Azure DevOps organization and enter the project name +++Parts Unlimited+++, and select **Choose Template**.
 
-    !IMAGE[yfclxql0.jpg](yfclxql0.jpg)
+    !IMAGE[yfclxql0.jpg](Screens/yfclxql0.jpg)
 
 1. [] Select the **PartsUnlimited** template and click **Select Template**.
 
-    !IMAGE[jmbsdl68.jpg](jmbsdl68.jpg)
+    !IMAGE[jmbsdl68.jpg](Screens/jmbsdl68.jpg)
 
 1. [] Click **Create Project** and wait for the process to complete.
 
-    !IMAGE[6e8nq7jl.jpg](6e8nq7jl.jpg)
+    !IMAGE[6e8nq7jl.jpg](Screens/6e8nq7jl.jpg)
 
 1. [] Select **Navigate to project**.
 
-    !IMAGE[l1zn8f7u.jpg](l1zn8f7u.jpg)
+    !IMAGE[l1zn8f7u.jpg](Screens/l1zn8f7u.jpg)
 
 1. [] (Optional) Leave the Parts Unlimited project and the Azure portal tabs open, and close the remaining tabs. 
 
@@ -94,7 +94,7 @@ Some labs will require you to open the **Parts Unlimited** solution in **Visual 
 
 1. []  Go to the **Repos** hub, and select **Clone**.
 
-    !IMAGE[0lpcm144.jpg](0lpcm144.jpg)
+    !IMAGE[0lpcm144.jpg](Screens/0lpcm144.jpg)
 
 1. [] Select **Clone** and select **Clone in Visual Studio**.
 
@@ -102,7 +102,7 @@ Some labs will require you to open the **Parts Unlimited** solution in **Visual 
 
     >[!ALERT] Ensure that you select the second **Microsoft Visual Studio Web Protocol Handler Selector**, as shown in the screen shot below. This will cause Visual Studio 2019 to open, rather then Visual Studio 2017. You must use Visual Studio 2019 for this lab.
 
-    !IMAGE[tjlz91l1.jpg](tjlz91l1.jpg)
+    !IMAGE[tjlz91l1.jpg](Screens/tjlz91l1.jpg)
 
 1. [] Ensure that Visual Studio 2019 opens. 
 
@@ -114,14 +114,14 @@ Some labs will require you to open the **Parts Unlimited** solution in **Visual 
 
 1. [] In the Visual Studio Azure DevOps dialog box, select **Clone** and wait for the repo to be cloned locally.
 
-    !IMAGE[fb4mxvlk.jpg](fb4mxvlk.jpg)
+    !IMAGE[fb4mxvlk.jpg](Screens/fb4mxvlk.jpg)
 
 
 1. [] In Solution Explorer, switch views to open the **PartsUnlimited.sln** solution. 
 
     >[!NOTE] You can safely ignore any warnings about unsupported project types.
 
-    !IMAGE[9ky5a9ei.jpg](9ky5a9ei.jpg)
+    !IMAGE[9ky5a9ei.jpg](Screens/9ky5a9ei.jpg)
 
 1. [] Leave Visual Studio open for use in your lab.
 
