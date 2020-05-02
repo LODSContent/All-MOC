@@ -34,7 +34,7 @@ In this task, you will create a new Azure DevOps organization that is associated
   
 1. [] Under "Don't have an Azure DevOps Organization", select **Get started for free**.
 
-    !IMAGE[6lobq91r.jpg](screens/6lobq91r.jpg)
+    !IMAGE[6lobq91r.jpg](Screens/6lobq91r.jpg)
 
     >[!NOTE] A new tab opens.
 
