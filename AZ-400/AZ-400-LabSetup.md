@@ -40,6 +40,8 @@ In this task, you will create a new Azure DevOps organization that is associated
 
 1. [] In the new tab, on the We need a few more details page, select **Continue**.
 
+    ![](Screens/dqa702zn.jpg)
+
     !IMAGE[dqa702zn.jpg](Screens/dqa702zn.jpg)
 
 1. [] On the Get started with Azure DevOps page, select **Create a new organization**.
