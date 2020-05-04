@@ -52,7 +52,7 @@ In this task, you will create a new Azure DevOps organization that is associated
 
 1. [] Make a note of the default organization name, and enter it in the text box below.
 
-    >[!NOTE] Please use only the text string after the last trailing slash in the URL, not the entire URL. For example, if the organiztion name is dev.azure.com/LabUser-12345678a, enter only **LabUser-12345678a**.
+    >[!NOTE] Please use only the text string after the last trailing slash in the URL, not the entire URL. For example, if the organization name is dev.azure.com/LabUser-12345678a, enter only **LabUser-12345678a**.
 
     @lab.TextBox(OrgName)
 
