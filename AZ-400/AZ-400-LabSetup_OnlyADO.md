@@ -5,7 +5,8 @@
 The content in this setup lab is a modified version of the of the Azure DevOps [Before you begin](https://www.azuredevopslabs.com/labs/vstsextend/Setup/) lab. The content was modified so that it could be optimized for the lab platform and ensure that the instructions aligned closely with the lab environment that is provided to you. Subsequent labs may be presented *as is* from content sources exclusively in the control of Microsoft, with little or no modification. 
 
 ---
-The lab exercises in this course module require that you have an Azure subscription and an Azure DevOps organization associated with your Azure subscription credentials. Additionally, many labs require that you create a project, such as the **Parts Unlimited** team project in the organization. This setup lab exercise guides you through the steps of creating an Azure DevOps organization and creating the appropriate team project, if required. Once you have completed this set up task, you can proceed with the lab exercises.
+The lab exercises in this course module require that you have an Azure subscription and an Azure DevOps organization associated with your Azure subscription credentials. Once you have completed this set up task, you can proceed with the lab exercises.
+
 
 ## Task 1: Sign in to Azure
 
@@ -49,14 +50,5 @@ In this task, you will create a new Azure DevOps organization that is associated
 1. [] Clear the check box to receive more information, and then select **Continue**.
 
     !IMAGE[1g1uvq5x.jpg](Screens/1g1uvq5x.jpg)
-
-1. [] Make a note of the default organization name, and enter it in the text box below.
-
-    >[!NOTE] Please use only the text string after the last trailing slash in the URL, not the entire URL. For example, if the organiztion name is dev.azure.com/LabUser-12345678a, enter only **LabUser-12345678a**.
-
-    @lab.TextBox(OrgName)
-
-    !IMAGE[8bcqeagf.jpg](Screens/8bcqeagf.jpg)
-
 
 1. [] Select **Continue**. 
