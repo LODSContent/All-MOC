@@ -26,7 +26,7 @@ The lab exercises in this course module require that you have an Azure subscript
 
     > [!KNOWLEDGE] You are signed into Azure with "cloud slice" subscription credentials. A cloud slice subscription (CSS) provides you with transient, _just-enough_ access to an Azure subscription so that you can perform the tasks in this lab. Please note that you may be restricted from creating Azure resources that are not required for this lab. 
 
-## Task 2: Create Azure DevOps organization and Parts Unlimited project
+## Task 2: Create Azure DevOps organization 
 
 In this task, you will create a new Azure DevOps organization that is associated with your Azure sign in credentials. You will then create a new project based on a preconfigured template.
 
@@ -63,7 +63,7 @@ In this task, you will create a new Azure DevOps organization that is associated
 
 ## Task 3: Create the Parts Unlimited project
 
-In this task, you will create a new Azure DevOps organization that is associated with your Azure sign in credentials. You will then create a new project based on a preconfigured template.
+In this task, you will create the Parts Unlimited project based on a preconfigured template.
 
 1. [] In the Edge browser, select the **Azure DevOps Demo Generator** tab.
 
