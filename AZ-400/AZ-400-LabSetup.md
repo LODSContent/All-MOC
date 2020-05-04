@@ -102,7 +102,7 @@ Some labs will require you to open the **Parts Unlimited** solution in **Visual 
 
 1. [] When prompted, select **Microsoft Visual Studio Web Protocol Handler Selector**, and select **OK**.
 
-    >[!ALERT] Ensure that you select the second **Microsoft Visual Studio Web Protocol Handler Selector**, as shown in the screen shot below. This will cause Visual Studio 2019 to open, rather then Visual Studio 2017. You must use Visual Studio 2019 for this lab.
+    >[!ALERT] If you select the second **Microsoft Visual Studio Web Protocol Handler Selector**, as shown in the screen shot below. this will cause Visual Studio 2019 to open, rather then Visual Studio 2017. Choosing the top-most link will cause Visual Studio 2017 to open. 
 
     !IMAGE[tjlz91l1.jpg](Screens/tjlz91l1.jpg)
 
