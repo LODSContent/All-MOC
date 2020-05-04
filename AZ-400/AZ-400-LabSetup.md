@@ -5,7 +5,7 @@
 The content in this setup lab is a modified version of the of the Azure DevOps [Before you begin](https://www.azuredevopslabs.com/labs/vstsextend/Setup/) lab. The content was modified so that it could be optimized for the lab platform and ensure that the instructions aligned closely with the lab environment that is provided to you. Subsequent labs may be presented *as is* from content sources exclusively in the control of Microsoft, with little or no modification. 
 
 ---
-The lab exercises in this course module require that you have an Azure subscription, an Azure DevOps organization associated with your Azure subscription credentials, and a **Parts Unlimited** team project in the organization. This setup lab exercise guides you through the steps of creating an Azure DevOps organization and creating the team project. Once you have completed this set up task, you can proceed with the lab exercises.
+The lab exercises in this course module require that you have an Azure subscription and an Azure DevOps organization associated with your Azure subscription credentials. Additionally, many labs require that you create a project, such as the **Parts Unlimited** team project in the organization. This setup lab exercise guides you through the steps of creating an Azure DevOps organization and creating the appropriate team project. Once you have completed this set up task, you can proceed with the lab exercises.
 
 ## Task 1: Sign in to Azure
 
@@ -61,6 +61,10 @@ In this task, you will create a new Azure DevOps organization that is associated
 
 1. [] Select **Continue**. 
 
+## Task 3: Create the Parts Unlimited project
+
+In this task, you will create a new Azure DevOps organization that is associated with your Azure sign in credentials. You will then create a new project based on a preconfigured template.
+
 1. [] In the Edge browser, select the **Azure DevOps Demo Generator** tab.
 
 1. [] Select **Sign in**.
@@ -86,7 +90,7 @@ In this task, you will create a new Azure DevOps organization that is associated
 1. [] (Optional) Leave the Parts Unlimited project and the Azure portal tabs open, and close the remaining tabs. 
 
 
-## Task 3: Configuring the Parts Unlimited solution in Visual Studio (Optional){vs}
+## Task 4: Configuring the Parts Unlimited solution in Visual Studio (Optional){vs}
 
 Some labs will require you to open the **Parts Unlimited** solution in **Visual Studio**. If your lab doesn't require this, you can skip this task.
 
