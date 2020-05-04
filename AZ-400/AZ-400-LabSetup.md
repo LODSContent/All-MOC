@@ -7,7 +7,13 @@ The content in this setup lab is a modified version of the of the Azure DevOps [
 ---
 The lab exercises in this course module require that you have an Azure subscription and an Azure DevOps organization associated with your Azure subscription credentials. Additionally, many labs require that you create a project, such as the **Parts Unlimited** team project in the organization. This setup lab exercise guides you through the steps of creating an Azure DevOps organization and creating the appropriate team project. Once you have completed this set up task, you can proceed with the lab exercises.
 
-## Task 1: Sign in to Azure
+## Task 1: Create an Azure DevOps Organization and Parts Unlimited Project
+
+In this task, you will create an Azure DevOps Organization for use in the lab. First, you will sign in to the lab virtual machine, sign into Azure, and use the Azure credentials to create a new Azure DevOps organization. Finally, after creating the Azure DevOps organization, you will create a new project based on a pre-created template.
+
+###  Sign into Azure
+
+In this task, you will sign into the lab virtual  Azure to verify the Azure credentials provided to you for use in the lab.
 
 1. [] On @lab.VirtualMachine(SEA-DEV).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
 
@@ -26,7 +32,7 @@ The lab exercises in this course module require that you have an Azure subscript
 
     > [!KNOWLEDGE] You are signed into Azure with "cloud slice" subscription credentials. A cloud slice subscription (CSS) provides you with transient, _just-enough_ access to an Azure subscription so that you can perform the tasks in this lab. Please note that you may be restricted from creating Azure resources that are not required for this lab. 
 
-## Task 2: Create Azure DevOps organization 
+### Create a new Azure DevOps organization using your Azure credentials
 
 In this task, you will create a new Azure DevOps organization that is associated with your Azure sign in credentials. You will then create a new project based on a preconfigured template.
 
@@ -61,7 +67,7 @@ In this task, you will create a new Azure DevOps organization that is associated
 
 1. [] Select **Continue**. 
 
-## Task 3: Create the Parts Unlimited project
+### Create the Parts Unlimited project
 
 In this task, you will create the Parts Unlimited project based on a preconfigured template.
 
@@ -90,11 +96,13 @@ In this task, you will create the Parts Unlimited project based on a preconfigur
 1. [] (Optional) Leave the Parts Unlimited project and the Azure portal tabs open, and close the remaining tabs. 
 
 
-## Task 4: Configuring the Parts Unlimited solution in Visual Studio (Optional){vs}
+## Task 2: Configuring the Parts Unlimited solution in Visual Studio (Optional){vs}
 
 Some labs will require you to open the **Parts Unlimited** solution in **Visual Studio**. If your lab doesn't require this, you can skip this task.
 
->[!ALERT] Before doing this task, please review the subsequent labs in the module and verify whether or not using Visual Studio to open the Parts Unlimited solution is required for the lab. 
+>[!ALERT] Before doing this task, please review the subsequent labs in the module and verify whether or not using Visual Studio to open the Parts Unlimited solution is required for the lab. You will know if this task is required if the lab manual states the following in the prerequisites section: 
+>
+>This lab requires you to complete tasks 1 ***and 2*** from the prerequisite instructions
 
 1. [] If you do not have the Parts Unlimited project open, go to your Azure DevOps team project for **Parts Unlimited** at +++https://dev.azure.com/@lab.Variable(OrgName)/Parts%20Unlimited+++. 
 
