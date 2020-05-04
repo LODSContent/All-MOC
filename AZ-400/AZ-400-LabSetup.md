@@ -90,7 +90,7 @@ In this task, you will create a new Azure DevOps organization that is associated
 
 Some labs will require you to open the **Parts Unlimited** solution in **Visual Studio**. If your lab doesn't require this, you can skip this task.
 
->{!ALERT] Before doing this task, please review the subsequent labs in the module and verify whether or not using Visual Studio to open the Parts Unlimited solution is required for the lab. 
+>[!ALERT] Before doing this task, please review the subsequent labs in the module and verify whether or not using Visual Studio to open the Parts Unlimited solution is required for the lab. 
 
 1. [] If you do not have the Parts Unlimited project open, go to your Azure DevOps team project for **Parts Unlimited** at +++https://dev.azure.com/@lab.Variable(OrgName)/Parts%20Unlimited+++. 
 
