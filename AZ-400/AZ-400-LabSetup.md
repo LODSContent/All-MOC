@@ -100,9 +100,9 @@ In this task, you will create the Parts Unlimited project based on a preconfigur
 
 Some labs will require you to open the **Parts Unlimited** solution in **Visual Studio**. If your lab doesn't require this, you can skip this task.
 
->[!ALERT] Before doing this task, please review the subsequent labs in the module and verify whether or not using Visual Studio to open the Parts Unlimited solution is required for the lab. You will know if this task is required if the lab manual states the following in the prerequisites section: 
+>[!ALERT] Before doing this task, please review the subsequent labs in the module and verify whether or not using Visual Studio to open the Parts Unlimited solution is required for the lab. You will know if this task is required if the lab manual states the following in the prerequisites section for the lab: 
 >
->This lab requires you to complete tasks 1 ***and 2*** from the prerequisite instructions
+>*This lab requires you to complete tasks 1 ***and 2*** from the prerequisite instructions.*
 
 1. [] If you do not have the Parts Unlimited project open, go to your Azure DevOps team project for **Parts Unlimited** at +++https://dev.azure.com/@lab.Variable(OrgName)/Parts%20Unlimited+++. 
 
