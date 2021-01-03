@@ -12,6 +12,6 @@ Before you begin
 
 @lab.Activity(DownloadFromGit)
 
->[!note] This will copy the latest lab files from GitHub and place them on the Desktop. You will see a 'Success!' message above, once the process is complete.
+>[!note] This will copy the latest lab files from GitHub and place them on the Student's Desktop. You will see a 'Success!' message above, once the process is complete.
 
 Once you have received the 'Success!' message, click **Next** to proceed to the lab.
