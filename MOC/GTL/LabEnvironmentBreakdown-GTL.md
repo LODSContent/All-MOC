@@ -5,7 +5,7 @@ When in the Lab environment do not use your personal login information. Use the 
 You are given 60 minutes for each lab. You will be allowed to extend the labs, as needed. Click ‘yes’ if you need more time. Once you complete a lab you can mark it as complete or cancel it if you have not finished it. Each lab can be launched a maximum of 5 times. After completing or cancelling a lab, that lab window closes. You will need to go back to the initial lab log in page to launch the next lab.
 
 ### Power Options
-Using the Power Options ( ![Power Options](..\images\PowerOptions.png) ) button in the top left-hand corner of the lab UI, you can:
+Using the Power Options ( ![Power Options](https://github.com/LODSContent/All-MOC/blob/master/MOC/GTL/images/PowerOptions.png?raw=true) ) button in the top left-hand corner of the lab UI, you can:
 1. Send commands to the Virtual Machine, such as Ctrl + Alt + Del, Alt + Tab or any other combination with the Windows key.
 1. Leverage the Type Text feature to type text into the Virtual Machine by selecting 'Type clipboard text.'
 1. Send shutdown, start and reboot commands to the Virtual Machine.
