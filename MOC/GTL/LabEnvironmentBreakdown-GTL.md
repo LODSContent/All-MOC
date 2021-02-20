@@ -14,7 +14,7 @@ Using the Power Options ( ![Power Options](https://github.com/LODSContent/All-MO
   1. Note: This is only to be used in the event that your connectivity has failed.
   
 ### Display Options
-Using the Display Options button in the top left-hand corner of the lab UI, you can:
+Using the Display Options ( ![Display Options](https://github.com/LODSContent/All-MOC/blob/master/MOC/GTL/images/DisplayOptions.png?raw=true) ) button in the top left-hand corner of the lab UI, you can:
 1. Set your lab window to fullscreen. Your Virtual Machine's resolution will adjust to *best* fill the space.
 1. Fit your lab window to your Virtual Machine's resolution.
   1. This is beneficial if you maximize your lab window, then want to get rid of the gray space around the Virtual Machine.
