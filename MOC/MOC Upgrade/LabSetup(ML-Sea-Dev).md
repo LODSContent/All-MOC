@@ -1,6 +1,5 @@
-## Lab Setup
+## Login
 
-Before you begin
 
 1. [] Hello @lab.User.FirstName, on @lab.VirtualMachine(SEA-DEV).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
 
@@ -8,8 +7,12 @@ Before you begin
 
 1. [] Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
 
-## Download the Lab Files
+## Download Files
+
+>[!alert] Click the button below to copy lab files from GitHub. This step is required for lab completion.
+
 
 @lab.Activity(DownloadFromGit)
 
->[!note] This will copy the latest lab files from GitHub and configure the directories as needed for the remainder of the lab exercises. You will see a 'Success!' message above, once the process is complete.
+
+Once you have received the 'Success!' message, click **Next** to proceed to the lab.
