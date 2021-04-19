@@ -1,4 +1,4 @@
-## Download the Lab Files
+## Download Files
 
 @lab.Activity(DownloadFromGit)
 
