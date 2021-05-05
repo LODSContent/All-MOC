@@ -22,7 +22,7 @@ Using the Display Options ( ![Display Options](https://github.com/LODSContent/Al
    - This is beneficial if you maximize your lab window, then want to get rid of the gray space around the Virtual Machine.
  - Initiate a reconnect attempt between your local computer and the Virtual Machine. This is helpful if you have been disconnected from your lab's Virtual Machine.
 
-You can resize the instruction panel (on right) by hovering on the left edge of it and dragging. You can also adjust the font size.
+You can resize this instruction panel (on right) by hovering on the left edge of it and dragging. You can also adjust the font size.
 
 The +++TypeText+++ tool is provided in your labs to make the input of long text easier. Ensure your cursor is in the correct area in the portal/browser window and then Click the T tool. Otherwise, you can always copy and paste it.
 
