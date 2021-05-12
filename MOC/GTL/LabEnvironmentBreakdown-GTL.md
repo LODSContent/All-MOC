@@ -26,4 +26,10 @@ You can resize this instruction panel (on right) by hovering on the left edge of
 
 The +++TypeText+++ tool is provided in your labs to make the input of long text easier. Ensure your cursor is in the correct area in the portal/browser window and then Click the T tool. Otherwise, you can always copy and paste it.
 
+**Check Boxes**
+
+The **Instructions** contain check boxes, that should be checked after successfully completing a step. The check boxes track your progress throughout the module, and they update the activity status to **Complete**, only if all check boxes have been checked. 
+
+>[!knowledge] If you should forget to check a box and you have completed several or even all of the steps, the current check box can be checked, which will display a prompt stating *You have skipped ahead!...*. Click **OK** to populate all prior check boxes to the current selected. 
+
 We hope you enjoy the lab experience!
