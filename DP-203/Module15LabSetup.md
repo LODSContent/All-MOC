@@ -14,7 +14,7 @@ To complete this lab, you will need to create an event hub and deploy an Azure D
 
 1. In the Azure portal, select **+ Create a resource**. Enter event hubs into the Search the Marketplace box, select Event Hubs from the results, and then select **Create**.
 
-   ![Screenshot of the Azure portal with selections for creating an event hub](media/create-resource.png "Create a resource")
+   ![Screenshot of the Azure portal with selections for creating an event hub](https://raw.githubusercontent.com/solliancenet/microsoft-data-engineering-ilt-deploy/main/setup/15/media/create-resource.png)
 
 2. In the Create Namespace pane, enter the following information:
 
@@ -26,13 +26,13 @@ To complete this lab, you will need to create an event hub and deploy an Azure D
 
    Select **Review + create**, then select **Create**.
 
-   ![Screenshot of the "Create Namespace" pane](media/create-namespace.png "Create namespace")
+   ![Screenshot of the "Create Namespace" pane](https://raw.githubusercontent.com/solliancenet/microsoft-data-engineering-ilt-deploy/main/setup/15/media/create-namespace.png)
 
 ### Create an event hub
 
 1. After your Event Hubs namespace is provisioned, browse to it and add a new event hub by selecting the **+ Event Hub** button on the toolbar.
 
-   ![Screenshot of an Event Hubs namespace with the button for adding an event hub highlighted](media/add-event-hub.png "Add event hub")
+   ![Screenshot of an Event Hubs namespace with the button for adding an event hub highlighted](https://raw.githubusercontent.com/solliancenet/microsoft-data-engineering-ilt-deploy/main/setup/15/media/add-event-hub.png)
 
 2. On the **Create Event Hub** pane, enter:
 
@@ -41,16 +41,16 @@ To complete this lab, you will need to create an event hub and deploy an Azure D
 
    Select **Create**.
 
-   ![Screenshot of the "Create Event Hub" pane](media/create-event-hub-pane.png "Create Event Hub")
+   ![Screenshot of the "Create Event Hub" pane](https://raw.githubusercontent.com/solliancenet/microsoft-data-engineering-ilt-deploy/main/setup/15/media/create-event-hub-pane.png)
 
 ### Copy the connection string primary key for the shared access policy
 
 1. On the left-hand menu in your Event Hubs namespace, select **Shared access policies** under **Settings**, then select the **RootManageSharedAccessKey** policy.
 
-   ![Shared access policies.](media/shared-access-policies.png "Shared access policies")
+   ![Shared access policies.](https://raw.githubusercontent.com/solliancenet/microsoft-data-engineering-ilt-deploy/main/setup/15/media/shared-access-policies.png)
 
 2. Copy the connection string for the primary key by selecting the copy button.
 
-   ![Selected shared access policy with information about connection string and primary key](media/copy-connection-string.png "Connection string--primary key")
+   ![Selected shared access policy with information about connection string and primary key](https://raw.githubusercontent.com/solliancenet/microsoft-data-engineering-ilt-deploy/main/setup/15/media/copy-connection-string.png)
 
 3. Save the copied primary key to Notepad.exe or another text editor for later reference.
