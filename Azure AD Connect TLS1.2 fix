@@ -1,0 +1,6 @@
+>[!ALERT]
+>Azure AD Connect now requires TLS1.2 as the default security protocol. If you receive an error attempting to install or run the Azure AD Connect tool, please open a new Powershell window as Administrator and enter the following command:
+>
+>```Powershell
+>;[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12 
+>```
