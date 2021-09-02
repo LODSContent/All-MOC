@@ -1,0 +1,85 @@
+!instructions[](https://raw.githubusercontent.com/LODSContent/All-MOC/master/MOC/MSLearningDisclaimer)
+
+> **Note** Your Office 365 tenant came with a default global administrator account already created in Microsoft 365. The name of this user account is MOD Administrator. The username for this MOD Administrator account is +++@lab.CloudCredential(GTLM365EnterpriseBlank).Username+++, which is the username assigned to your tenant in the O365 Credentials window. When you initially log into Office 365, you will log in with this MOD Administrator account of +++@lab.CloudCredential(GTLM365EnterpriseBlank).Username+++ with the password of +++@lab.CloudCredential(GTLM365EnterpriseBlank).Password+++. While progressing through this lab you will need these credentials.  They can be found in the **Resources** tab in this lab profile.
+
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/error_log.md)
+
+###To continue, press **Next** below.
+
+===
+
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0101-Managing Identities in Azure AD.md)
+###To continue to the next lab press **Next** below.
+
+===
+
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0102-Using Azure AD Connect to connect AD DS to Azure AD.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0201-Configuring and managing Azure AD join.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0202-Manage Device Enrollment into Intune.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0203-Enrolling devices into Intune.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0301-Creating and Deploying Configuration Profiles.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0302-Monitor device and user activity in Intune.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0303-Configuring Enterprise State Roaming.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0401-Deploying cloud apps using Intune.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0402-Configure App Protection Policies for Mobile Devices.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0403-Deploy Apps using Endpoint Configuration Manager.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0404-Deploy Apps using Microsoft Store for Business.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0501-Configuring multi-factor authentication.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0502-Configuring self-service password reset.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0503-Configuring and validating device compliance.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0504-Creating device inventory reports.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0601-Configure and Deploy Windows Information Protection Policies by using Intune.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0602-Configuring Endpoint security Using Intune.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0603-Configuring Disk Encryption Using Intune.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0701-Deploying Windows 10 using Microsoft Deployment Toolkit.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0702-Deploying Windows 10 using Endpoint Configuration Manager.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0801-Deploying Windows 10 with AutoPilot.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0802-Configuring Co-Management Using Configuration Manager.md)
+###To continue to the next lab press **Next** below.
+===
+!instructions[](https://raw.githubusercontent.com/MicrosoftLearning/MD-101T00-ManagingModernDesktops/master/Instructions/Labs/0901-Managing Windows 10 security and feature updates.md)
+# Congratulations!
+
+You have successfully completed the labs, to mark the lab as complete click **End**
