@@ -1,0 +1,1 @@
+>[!alert] This course has been retired and is no longer supported by Microsoft; it is offered on an as-is basis. For non-content related issues, Skillable's support is still available for this course.
