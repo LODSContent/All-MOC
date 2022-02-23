@@ -1,5 +1,5 @@
-    <details>
-  <summary style="font-size:16px;font-weight:bold">The Lab Environment (click to expand)</summary>
+<details>
+<summary style="font-size:16px;font-weight:bold">The Lab Environment (click to expand)</summary>
 이 랩 환경은 Azure에서 제어되는 랩 환경이므로 지침을 잘 따라 주시기 바랍니다. 이름 또는 위치를 변경하지 마세요. 
 
 랩 환경에 있을 때는 자신의 개인 로그인 정보를 사용하지 마세요.
