@@ -1,9 +1,5 @@
 # Creating a Microsoft Azure Pass Subscription
 
-> **Note:** You will need to redeem your Azure Pass once per Course. If you have already created an Azure Pass subscription, you can skip this section by clicking **Next >** below to continue.
-
-> Links in the instructions that do not have a lightning bolt icon ( ![](https://raw.githubusercontent.com/LODSContent/ESI/master/Images/BoltIcon.png) ) will attempt to open in your local browser, not in-lab. It is recommended you type any links directly into the browser in-lab.
-
 Creating an Azure Pass subscription is a two step process.
 
 1. Redeem your Azure Pass Promo Code  
@@ -16,7 +12,7 @@ Creating an Azure Pass subscription is a two step process.
 
     > **Note:** It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
 
-1. Click the start button to get started.
+1. Select the start button to get started.
 	
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
 
@@ -24,11 +20,11 @@ Creating an Azure Pass subscription is a two step process.
 
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
 	
-1. Click “Confirm” if the correct email address is listed.
+1. Select “Confirm” if the correct email address is listed.
 
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
 	
-1. Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box and click “Claim Promo Code”.
+1. Enter your Azure Pass promo code in the Promo code box and select “Claim Promo Code”.
 
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
 	
@@ -40,15 +36,15 @@ Creating an Azure Pass subscription is a two step process.
 
 1. When the redemption process is completed, it will redirect to the sign up page.
 
-1. Enter your account information and click “Next”.
+1. Enter your account information and select “Next”.
 
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
 	
-1. Click the agreement check box and click the Sign up button.
+1. Check the agreement check box and select the Sign up button.
 	
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_4.jpg)
 	
-1. Enter your account information and click “Submit”.
+1. Enter your account information and select “Submit”.
 
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_1.jpg)
 
@@ -63,5 +59,3 @@ Creating an Azure Pass subscription is a two step process.
 1. You can check the balance of your Azure Pass Credits on https://www.microsoftazuresponsorships.com/balance
 
     ![](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
-    
-Click **Next >** below to continue.
