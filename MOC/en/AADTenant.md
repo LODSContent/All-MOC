@@ -9,30 +9,28 @@
 
 1. Search for and select +++**Azure Active Directory**+++
 
-1. From the Azure Active Directory Overview blade, select **Manage Tenants** and then then click **Create a new tenant**.
+1. From the Azure Active Directory Overview blade, select **Manage Tenants** and then then select **+ Create** to **Create a new tenant**.
 
-1. On the Basics tab of the Create a directory blade, select **Azure Active Directory**, then select **Next: Configuration** .
+1. On the **Basics** tab of the **Create a tenant** blade, select **Azure Active Directory**, then select **Next: Configuration**.
 
-1. On the Configuration tab, configure the following fields then click **Review + Create**, and then **Create**:
+1. On the **Configuration** tab, configure the following fields then select **Review + Create**, and then **Create**:
 
     |||
     |--|--|
-    |Organization Name|+++First AAD+++|
-    |Initial Domain Name|+++firstaad@lab.LabInstance.Id+++|
-    |Country/Region|United States|
+    | Organization Name | +++First AAD+++ |
+    | Initial Domain Name | +++firstaad@lab.LabInstance.Id+++ |
+    | Country/Region | United States |
+
+1. On the **Help us prove you're not a robot** pane, type the letters of the Captcha and select **Submit** 
 
     > [!ALERT] Wait for directory creation to complete. This may take a few minutes.
     > 
     > If you encounter a captcha request during creation, please be aware that while the captcha form may fail the tenant may still be created. Please check the manage tenant section before reattempting the tenant creation process. We have escalated the issue with Microsoft for assistance.
 
-1. When the directory is finished creating, refresh the browser window to verify that the creation was successful.
+1. When the Tenant has been created, you will see text indicating **Tenant creation was successful.  Click here to navigate to your new tenant**.
 
-1. In the toolbar at the top of the Azure portal, select the **Switch Directory** icon.
+1. Select the **First AAD** link.
 
-    ![SwitchDir](images/SwitchDir.png)
-
-1. In the **Switch tenant** dialog, next to the **First AAD** directory select **Switch**.
-
-    ![SwitchTen](images/SwitchTen.png)
+    ![SwitchDir](images/FirstAAD.PNG)
 
 1. Click **Next** to proceed to the lab.
