@@ -11,7 +11,7 @@
 
 ## Télécharger les fichiers du labo
 
-@lab.Activity(DownloadFromGitFR)
+@lab.Activity(DownloadFromGit)
 
 >[!note] Vous verrez un message « Success! » ci-dessus, une fois que le processus est terminé.
 
