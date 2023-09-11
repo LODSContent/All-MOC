@@ -11,7 +11,7 @@
 
 ## Descargue los archivos para laboratorio
 
-@lab.Activity(DownloadFromGitES)
+@lab.Activity(DownloadFromGit)
 
 >[!note] Aparecerá el mensaje **Correcto** arriba una vez completado el proceso.
 
