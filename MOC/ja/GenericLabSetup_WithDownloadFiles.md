@@ -11,7 +11,7 @@
 
 ## ラボファイル(Lab Files)をダウンロードします
 
-@lab.Activity(DownloadFromGitJA)
+@lab.Activity(DownloadFromGit)
 
 >[!note] これは直近のラボファイルをGitHubからコピーし、ラボ訓練の残りにあたって必要なディレクトリを構成します。プロセスが完了すると、`成功(Success!)`のメッセージが上に表示されます。 
 
