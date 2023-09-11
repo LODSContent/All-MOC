@@ -11,7 +11,7 @@
 
 ## Lab-Dateien herunterladen
 
-@lab.Activity(DownloadFromGitDE)
+@lab.Activity(DownloadFromGit)
 
 >[!note] Nach Abschluss des Vorgangs wird oben eine Erfolgsmeldung angezeigt.
 
