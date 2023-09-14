@@ -2,6 +2,7 @@
 >
 > For access to Azure, use the following credentials:
 >
+> - Azure Portal: +++https://portal.azure.com/+++
 > - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
 > - Password: +++@lab.CloudPortalCredential(LabUser).Password+++
 >
