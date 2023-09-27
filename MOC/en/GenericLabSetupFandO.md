@@ -20,6 +20,6 @@
     
 1.  Open **Edge** and log in with the provided credentials +++@lab.CloudPortalCredential(1).Username+++ and password +++@lab.CloudPortalCredential(1).Password+++.
 
-1.  If you receive a **Permissions requested** dialog, select **Approve**.
+1.  If you receive a **Permissions requested** dialog, select **Accept**.
 
 1. Click **Next** to proceed to the lab.
