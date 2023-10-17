@@ -7,11 +7,11 @@
     |Benutzername|+++@lab.CloudPortalCredential(LabUser).Username+++|
     |Kennwort|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
-1. Suchen Sie nach +++**Azure Active Directory**+++, und wählen Sie diese Option aus.
+1. Suchen Sie nach +++**Microsoft Entra ID**+++, und wählen Sie diese Option aus.
 
-1. Wählen Sie auf dem Blatt „Überblick“ für Azure Active Directory zunächst **Mandanten verwalten** und dann **+ Erstellen** aus.
+1. Wählen Sie auf dem Blatt „Überblick“ für Microsoft Entra ID zunächst **Mandanten verwalten** und dann **+ Erstellen** aus.
 
-1. Wählen Sie auf der Registerkarte „Grundlagen“ auf dem Blatt „Verzeichnis erstellen“ zunächst **Azure Active Directory** und dann **Weiter: Konfiguration** aus.
+1. Wählen Sie auf der Registerkarte „Grundlagen“ auf dem Blatt „Verzeichnis erstellen“ zunächst **Microsoft Entra ID** und dann **Weiter: Konfiguration** aus.
 
 1. Konfigurieren Sie auf der Registerkarte „Konfiguration“ die folgenden Felder, und klicken Sie dann auf **Überprüfen + Erstellen** und dann auf **Erstellen**:
 
