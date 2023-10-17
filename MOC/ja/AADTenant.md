@@ -7,11 +7,11 @@
     |ユーザー名|+++@lab.CloudPortalCredential(LabUser).Username+++|
     |パスワード|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
-1. 「+++**Azure Active Directory**+++」を検索して追加します
+1. 「+++**Microsoft Entra ID**+++」を検索して追加します
 
-1. [Azure Active Directory の 概要] ブレードで、[**テナントの管理**], を選択し、[**新しいテナントの作成**] をクリックします。
+1. [Microsoft Entra ID の 概要] ブレードで、[**テナントの管理**], を選択し、[**新しいテナントの作成**] をクリックします。
 
-1. [ディレクトリの作成] ブレードの [Basics] タブで、[**Azure Active Directory**]、[**次へ: 構成**] の順に選択します。
+1. [ディレクトリの作成] ブレードの [Basics] タブで、[**Microsoft Entra ID**]、[**次へ: 構成**] の順に選択します。
 
 1. [構成] タブで、次のフィールドを構成してから、[**確認および作成**]、[**作成**] の順にクリックします。: 
 
