@@ -7,11 +7,11 @@
     |사용자 이름|+++@lab.CloudPortalCredential(LabUser).Username+++|
     |암호|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
-1. +++**Azure Active Directory**+++를 검색하고 선택합니다.
+1. +++**Microsoft Entra ID**+++를 검색하고 선택합니다.
 
-1. Azure Active Directory 개요 블레이드에서 **+ 테넌트 만들기**를 선택합니다.
+1. Microsoft Entra ID 개요 블레이드에서 **+ 테넌트 만들기**를 선택합니다.
 
-1. 디렉터리 만들기 블레이드의 기본 테이블에서 **Azure Active Directory** 옵션을 선택하고 **다음: 구성**을 선택합니다.
+1. 디렉터리 만들기 블레이드의 기본 테이블에서 **Microsoft Entra ID** 옵션을 선택하고 **다음: 구성**을 선택합니다.
 
 1. 구성 탭에서 다음 필드를 구성한 후에 **검토 + 만들기**, **만들기**를 차례로 클릭합니다.
 
