@@ -7,11 +7,11 @@
     |Nombre de usuario|+++@lab.CloudPortalCredential(LabUser).Username+++|
     |Contraseña|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
-1. Busque y seleccione +++**Azure Active Directory**+++
+1. Busque y seleccione +++**Microsoft Entra ID**+++
 
-1. En la hoja de información general de Azure Active Directory, seleccione **Administrar inquilinos** y luego **+ Crear**.
+1. En la hoja de información general de Microsoft Entra ID, seleccione **Administrar inquilinos** y luego **+ Crear**.
 
-1. En la pestaña Básico de la hoja Crear un directorio, seleccione **Azure Active Directory** y luego **Siguiente: Configuración**.
+1. En la pestaña Básico de la hoja Crear un directorio, seleccione **Microsoft Entra ID** y luego **Siguiente: Configuración**.
 
 1. En la pestaña Configuración, configure los siguientes campos y haga clic en **Revisión y creación** y seleccione **Crear**:
 
