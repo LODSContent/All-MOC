@@ -7,11 +7,11 @@
     |Nom d’utilisateur|+++@lab.CloudPortalCredential(LabUser).Username+++|
     |Mot de passe|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
-1. Recherchez et sélectionnez +++**Azure Active Directory**+++
+1. Recherchez et sélectionnez +++**Microsoft Entra ID**+++
 
-1. Dans le panneau Overview d’Azure Active Directory, sélectionnez **Manage Tenants**, puis **+ Create**.
+1. Dans le panneau Overview d’Microsoft Entra ID, sélectionnez **Manage Tenants**, puis **+ Create**.
 
-1. Dans l’onglet Basics du panneau Create a directory, sélectionnez **Azure Active Directory**, puis sélectionnez **Next: Configuration** .
+1. Dans l’onglet Basics du panneau Create a directory, sélectionnez **Microsoft Entra ID**, puis sélectionnez **Next: Configuration** .
 
 1. Dans l’onglet Configuration, configurez les champs suivants, puis cliquez sur **Review + Create**, et enfin sur **Create** :
 
