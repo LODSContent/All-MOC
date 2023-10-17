@@ -7,11 +7,11 @@
     |用户名|+++@lab.CloudPortalCredential(LabUser).Username+++|
     |密码|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
-1. 搜索并选择 +++Azure Active Directory+++
+1. 搜索并选择 +++Microsoft Entra ID+++
 
-1. 从 Azure Active Directory 概述边栏选项卡中，选择“+ 创建租户”。
+1. 从 Microsoft Entra ID 概述边栏选项卡中，选择“+ 创建租户”。
 
-1. 在“创建目录”边栏选项卡的“基本”表上，选择“Azure Active Directory”，然后选择“下一页：配置”。
+1. 在“创建目录”边栏选项卡的“基本”表上，选择“Microsoft Entra ID”，然后选择“下一页：配置”。
 
 1. 在“配置”选项卡上，配置以下字段，单击“查看 + 创建”，然后单击“创建”：
 
