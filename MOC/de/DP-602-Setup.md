@@ -24,7 +24,7 @@
 
 1. Nach der Anmeldung für ein kostenloses Power BI-Konto wählen Sie im Power BI-Portal unter +++https://app.fabric.microsoft.com+++ das **Konto-Manager**-Symbol (das *Benutzer*-Bild oben rechts) aus, und wählen Sie im Menü **Testversion starten**, um eine Microsoft Fabric-Testversion zu starten.
 
-    ![FabricTestversion](images/fabrictrial.jpg)
+    ![FabricTrial](images/fabrictrial.jpg)
 
 2. Nachdem die Testversion gestartet wurde, können Sie den Browser schließen - merken Sie sich einfach die **E-Mail** und das **Passwort**, das Sie für die Anmeldung bei Power BI verwendet haben. Sie werden sie in der Übung benötigen.
 
