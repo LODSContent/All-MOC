@@ -1,6 +1,6 @@
 ## 创建免费的 Power BI 帐户
 
-1. 在虚拟机中，打开一个网络浏览器，并访问 [https://app.fabric.microsoft.com](https://app.fabric.microsoft.com)。
+1. 在虚拟机中，打开一个网络浏览器，并访问 +++https://app.fabric.microsoft.com+++
 
 2. 在提示时，使用以下凭据登录：
     - **电子邮件**：+++@lab.CloudPortalCredential(User1).Username+++
