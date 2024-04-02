@@ -1,0 +1,8 @@
+>[!alert] ### Microsoft Multi-Factor Authentication
+Microsoft has updated the provided Microsoft M365 Tenant used in this course. Due to this change, Multi-Factor Authentication (MFA) may be required to log into the tenant. If this occurs, logging in using an Authentication App will be needed. Microsoft recommends using their free Microsoft Mobile Phone Authenticator:
+>
+>- [Download the Microsoft Mobile Phone Authenticator App](https://www.microsoft.com/en-us/security/mobile-authenticator-app)
+>
+>- [Set up your Microsoft 365 sign-in for multi-factor authentication](https://support.microsoft.com/en-us/office/set-up-your-microsoft-365-sign-in-for-multi-factor-authentication-ace1d096-61e5-449b-a875-58eb3d74de14)
+>
+>
