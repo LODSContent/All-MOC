@@ -1,6 +1,6 @@
-> [!hint] If you have to copy multiple lines within a code block into an application or cloud shell prompt, consider using Notepad as an intermediate step by doing the following:
+> [!hint] Se você precisar copiar várias linhas dentro de um bloco de código para um aplicativo ou prompt de shell na nuvem, considere usar o Bloco de Notas como um passo intermediário seguindo estes passos:
 >
-1. Open Notepad.
-1. Select the +++_+++ symbol beside the code block to copy the code block into Notepad. 
-1. Select the lines of code you copied into Notepad and paste them into the application or cloud shell prompt.
+1. Abra o Bloco de Notas.
+1. Selecione o símbolo +++_+++ ao lado do bloco de código para copiar o bloco de código para o Bloco de Notas.
+1. Selecione as linhas de código que você copiou para o Bloco de Notas e cole-as no aplicativo ou prompt de shell na nuvem.
 >
