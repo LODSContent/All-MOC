@@ -1,18 +1,17 @@
-#Required Lab Setup
+# Configuração Obrigatória do Laboratório
 
 ## Login
 
+1. Olá @lab.User.FirstName, na @lab.VirtualMachine(SEA-DEV).SelectLink, clique em @lab.CtrlAltDelete para ativar a sequência Ctrl + Alt + Delete e abrir a página de login.
 
-1. Hello @lab.User.FirstName, on @lab.VirtualMachine(SEA-DEV).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
+    >[!KNOWLEDGE] Quaisquer links como o acima enviarão Ctrl+Alt+Delete para a máquina selecionada. Isso também pode ser feito pelo menu **Comandos** (raio) no canto superior esquerdo da tela.
 
-    >[!KNOWLEDGE] Any links like the one above will send Ctrl+Alt+Delete to the selected machine. This can also be done the **Commands** menu (lightning bolt) in the upper-left hand corner of the screen.
+1. Faça login como +++@lab.VirtualMachine(SEA-DEV).Username+++ com a senha +++@lab.VirtualMachine(SEA-DEV).Password+++.
 
-1. Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
-
-## Download the Lab Files
+## Baixar os Arquivos do Laboratório
 
 @lab.Activity(DownloadFromGit)
 
->[!note] This will copy the latest lab files from GitHub and configure the directories as needed for the remainder of the lab exercises. You will see a 'Success!' message above, once the process is complete.
+>[!note] Isso irá copiar os últimos arquivos do laboratório do GitHub e configurar os diretórios conforme necessário para o restante dos exercícios do laboratório. Você verá uma mensagem de 'Sucesso!' acima, uma vez que o processo estiver completo.
 
-Once you have received the 'Success!' message, click **Next** to proceed to the lab.
+Após receber a mensagem de 'Sucesso!', clique em **Próximo** para prosseguir para o laboratório.
