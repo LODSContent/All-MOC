@@ -1,70 +1,66 @@
-# Creating a Microsoft Azure Pass Subscription
+# Criando uma Assinatura do Microsoft Azure Pass
 
-> [!alert] Please note that **Azure Passes** are designed to be used for the duration of the class and not for post class training. Please create and use a new Microsoft Live ID email account for your redemption. Do not redeem against your existing work/school email. For post class training, please redeem an Azure Trial here: [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/). If your Azure Subscription is disabled during the class duration, please reach out to Support. 
+> [!alert] Por favor, observe que os **Azure Passes** são projetados para serem usados durante a duração da aula e não para treinamento após a aula. Por favor, crie e use um novo email de conta Microsoft Live para resgatar o seu código. Não resgate usando seu email de trabalho/escola existente. Para treinamento após a aula, por favor, resgate um Azure Trial aqui: [https://azure.microsoft.com/pt-br/free/](https://azure.microsoft.com/pt-br/free/). Se a sua Assinatura do Azure for desabilitada durante a duração da aula, entre em contato com o Suporte.
 
-> [!NOTE] You will need to redeem your Azure Pass once per Course. If you have already created an Azure Pass subscription, you can skip this section by clicking **Next >** below to continue.
+> [!NOTE] Você precisará resgatar seu Azure Pass uma vez por Curso. Se você já criou uma assinatura do Azure Pass, pode pular esta seção clicando em **Próximo >** abaixo para continuar.
 
-> [!Knowledge] Links in the instructions that do not have a lightning bolt icon ( ![](https://raw.githubusercontent.com/LODSContent/ESI/master/Images/BoltIcon.png) ) will attempt to open in your local browser, not in-lab. It is recommended you type any links directly into the browser in-lab.
+> [!Knowledge] Links nas instruções que não têm um ícone de raio ( ![](https://raw.githubusercontent.com/LODSContent/ESI/master/Images/BoltIcon.png) ) tentarão abrir em seu navegador local, não no ambiente do laboratório. É recomendável que você digite qualquer link diretamente no navegador no ambiente do laboratório.
 
 
-Creating an Azure Pass subscription is a two step process.
+Criar uma assinatura do Azure Pass é um processo em duas etapas.
 
-1. Redeem your Azure Pass Promo Code  
-1. Activate your subscription
-1. Please create and use a New Microsoft Live ID email account for your redemption. Do not redeem against your existing work/school email. 
+## Passo 1: Resgatando um Código Promocional do Microsoft Azure Pass:
 
-## Step 1: Redeeming a Microsoft Azure Pass Promo Code:
+1. Abra um navegador e acesse: +++https://www.microsoftazurepass.com/+++
 
-1. Open a browser and navigate to: +++https://www.microsoftazurepass.com/+++
+    > [!KNOWLEDGE] É recomendável fechar todos os navegadores e abrir uma nova sessão de Navegação Privada. Outros logins podem persistir e causar erros durante a etapa de ativação.
 
-    > [!KNOWLEDGE] It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
+1. Clique no botão de início para começar.
 
-1. Click the start button to get started.
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
+
+1. Insira suas informações de login e selecione "Entrar".
+
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
 	
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
+1. Clique em "Confirmar" se o endereço de email correto estiver listado.
 
-1. Enter your account login information and select “Sign In”.
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
 	
-1. Click “Confirm” if the correct email address is listed.
+1. Insira seu código promocional +++@lab.CloudCredential(PromoCode).PromoCode+++ na caixa de código promocional e clique em "Resgatar Código Promocional".
 
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
 	
-1. Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box and click “Claim Promo Code”.
+1. O resgate pode levar até 5 minutos para ser processado.
 
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
 	
-1. It may take up to 5 minutes to process the redemption.
+## Passo 2: Ative sua assinatura:
 
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
+1. Quando o processo de resgate for concluído, ele redirecionará para a página de inscrição.
+
+1. Insira suas informações de conta e clique em "Avançar".
+
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
 	
-## Step 2: Activate your subscription:
-
-1. When the redemption process is completed, it will redirect to the sign up page.
-
-1. Enter your account information and click “Next”.
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
+1. Marque a caixa de seleção de acordo com o contrato e clique no botão "Inscreva-se".
 	
-1. Click the agreement check box and click the Sign up button.
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_4.jpg)
 	
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_4.jpg)
-	
-1. Enter your account information and click “Submit”.
+1. Insira suas informações de conta e clique em "Enviar".
 
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_1.jpg)
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_1.jpg)
 
-1. It may take a few minutes to process the request.
+1. Pode levar alguns minutos para processar a solicitação.
     
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_3.jpg)
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_3.jpg)
 	
-1. Your subscription is ready.
+1. Sua assinatura está pronta.
 	
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/8.jpg)
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/8.jpg)
 
-1. You can check the balance of your Azure Pass Credits on +++https://www.microsoftazuresponsorships.com/balance+++
+1. Você pode verificar o saldo de seus Créditos Azure Pass em +++https://www.microsoftazuresponsorships.com/balance+++
 
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
+    ![Imagem](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
     
-Click **Next >** below to continue.
+Clique em **Próximo >** abaixo para continuar.
