@@ -1,3 +1,3 @@
-### Congratulations!
-		
-You have successfully completed this Lab. Click **Next** to advance to the next **Lab**. 
+### Parabéns!
+
+Você concluiu com sucesso este laboratório. Clique em **Próximo** para avançar para o próximo **Laboratório**.
