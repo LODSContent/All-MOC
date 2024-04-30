@@ -1,23 +1,23 @@
-## Prepare cloud shell for later use
-1. Sign in to the Azure Portal (+++https://portal.azure.com+++) using the below credentials:
+## Preparar o Cloud Shell para uso posterior
+1. Faça login no Portal do Azure (+++https://portal.azure.com+++) usando as credenciais abaixo:
 
     |||
     |--|--|
-    |Username|+++@lab.CloudPortalCredential(LabUser).Username+++|
-    |Password|+++@lab.CloudPortalCredential(LabUser).Password+++|
+    |Nome de usuário|+++@lab.CloudPortalCredential(LabUser).Username+++|
+    |Senha|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
-1. In the toolbar at the top of the Azure portal, select the **Cloud Shell** icon.
+1. Na barra de ferramentas no topo do portal do Azure, selecione o ícone **Cloud Shell**.
 
-1. In the Welcome to Azure Cloud Shell dialog, select **Bash**.
+1. Na caixa de diálogo Bem-vindo ao Azure Cloud Shell, selecione **Bash**.
 
-1. On the you have no storage mounted screen select **Show advanced settings**.
+1. Na tela você não tem armazenamento montado, selecione **Mostrar configurações avançadas**.
 
-1. In the advanced settings screen, fill in the following fields, then click **Create Storage**:
+1. Na tela de configurações avançadas, preencha os seguintes campos e clique em **Criar Armazenamento**:
 
     |||
     |--|--|
-    |Resource group|A Resource Group that is **not** NetworkWatcherRG|
-    |Storage account (Create new)|+++cloudshell@lab.LabInstance.Id+++|
-    |File share (create new)|+++shellstorage+++|
+    |Grupo de recursos|Um Grupo de Recursos que **não seja** NetworkWatcherRG|
+    |Conta de armazenamento (criar nova)|+++cloudshell@lab.LabInstance.Id+++|
+    |Compartilhamento de arquivos (criar novo)|+++shellstorage+++|
 
-1. After the cloud shell initializes and puts you at a text prompt, exit the shell.
+1. Após o Cloud Shell inicializar e exibir um prompt de texto, saia do shell.
