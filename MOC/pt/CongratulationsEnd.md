@@ -1,3 +1,3 @@
-### Congratulations
+### Parabéns
 
-You have successfully completed this Course. Click **End** to mark the lab as **Complete**.
+Você concluiu com sucesso este curso. Clique em **Finalizar** para marcar o laboratório como **Concluído**.
