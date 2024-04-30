@@ -1,12 +1,11 @@
-#Required Lab Setup
+# Configuração Obrigatória do Laboratório
 
 ## Login
 
+1. Olá @lab.User.FirstName, na @lab.VirtualMachine(SEA-DEV).SelectLink, clique em @lab.CtrlAltDelete para ativar a sequência Ctrl + Alt + Delete e abrir a página de login.
 
-1. Hello @lab.User.FirstName, on @lab.VirtualMachine(SEA-DEV).SelectLink click @lab.CtrlAltDelete to activate the Ctrl + Alt + Delete sequence and bring up the logon page.
+    >[!KNOWLEDGE] Quaisquer links como o acima enviarão Ctrl+Alt+Delete para a máquina selecionada. Isso também pode ser feito pelo menu **Comandos** (raio) no canto superior esquerdo da tela.
 
-    >[!KNOWLEDGE] Any links like the one above will send Ctrl+Alt+Delete to the selected machine. This can also be done the **Commands** menu (lightning bolt) in the upper-left hand corner of the screen.
+1. Faça login como +++@lab.VirtualMachine(SEA-DEV).Username+++ com a senha +++@lab.VirtualMachine(SEA-DEV).Password+++.
 
-1. Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
-
-1. Click **Next** to proceed to the lab.
+1. Clique em **Próximo** para prosseguir para o laboratório.
