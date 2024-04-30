@@ -1,8 +1,8 @@
-> [!Knowledge] All the resource groups you require in this lab have been created for you as part of the lab setup. You can safely ignore any steps that ask you to create a resource group. Please use or select a pre-existing resource group that has a similar name to the one you are asked to create. If no similarly named resource group exists, use any existing resource group.
+> [!Knowledge] Todos os grupos de recursos necessários para este laboratório foram criados como parte da configuração do laboratório. Você pode ignorar com segurança quaisquer etapas que solicitem a criação de um grupo de recursos. Por favor, use ou selecione um grupo de recursos pré-existente que tenha um nome semelhante ao que você é solicitado a criar. Se não existir um grupo de recursos com um nome semelhante, use qualquer grupo de recursos existente.
 >
-> For access to Azure, use the following credentials:
+> Para acessar o Azure, utilize as seguintes credenciais:
 >
-> - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - Password: +++@lab.CloudPortalCredential(LabUser).Password+++
+> - Nome de usuário: +++@lab.CloudPortalCredential(LabUser).Username+++
+> - Senha: +++@lab.CloudPortalCredential(LabUser).Password+++
 >
-> You can see your available Resource Groups by checking the Resources tab above.
+> Você pode ver seus Grupos de Recursos disponíveis verificando a guia Recursos acima.
