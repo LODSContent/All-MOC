@@ -24,8 +24,9 @@
 
 1. 注册免费的 Power BI 账户后，在 Power BI 门户中的 +++https://app.fabric.microsoft.com+++，选择 **账户管理器** 图标（右上角的*用户*图像），然后在菜单中选择 **开始试用** 来启动 Microsoft Fabric 试用。
 
-    ![FabricTrial](images/fabrictrial.jpg)
+    ![fabrictrial](https://github.com/LODSContent/All-MOC/assets/150381688/3e2d9a6d-a776-4e57-ae14-08c11b978daa)
 
 2. 试用启动后，您可以关闭浏览器 - 只需记住您用于注册 Power BI 的 **电子邮件** 和 **密码**，您将在练习中需要这些信息。
 
 现在，您已准备好在下一页上使用刚刚创建的 Fabric 试用许可证开始练习了。
+
