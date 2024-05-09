@@ -30,7 +30,7 @@ Creating an Azure Pass subscription is a two step process.
 
     ![IMAGE](images/00120s.PNG)
 
-Enter your current password +++@lab.CloudCredential(WWLM365Enterprise201920SStakeholderKimFrank).AdministrativePassword+++ select “Sign In”.
+1. Enter your current password +++@lab.CloudCredential(WWLM365Enterprise201920SStakeholderKimFrank).AdministrativePassword+++ select “Sign In”.
 
 1. Select "I want to set up a different method" and select "Next".
 
