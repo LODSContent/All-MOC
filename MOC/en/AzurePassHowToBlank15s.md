@@ -1,11 +1,8 @@
 # Creating a Microsoft Azure Pass Subscription
 
-> [!alert] Please note that **Azure Passes** are designed to be used for the duration of the class and not for post class training. Please create and use a new Microsoft Live ID email account for your redemption. Do not redeem against your existing work/school email. For post class training, please redeem an Azure Trial here: [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/). If your Azure Subscription is disabled during the class duration, please reach out to Support. 
+> [!alert] Please note that **Azure Passes** are designed to be used for the duration of the class and not for post class training. Do not redeem against your existing work/school email, ensure you redeem using the **Username** and **Password** listed in the steps below. For post class training, please redeem an Azure Trial here: [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/). If your Azure Subscription is disabled during the class duration, please reach out to Support. 
 
 > [!NOTE] You will need to redeem your Azure Pass once per Course. If you have already created an Azure Pass subscription, you can skip this section by clicking **Next >** below to continue.
-
-> [!Knowledge] Links in the instructions that do not have a +++TypeText+++ icon will attempt to open in your local browser, not in-lab. It is recommended you type any links directly into the browser in-lab.
-
 
 Creating an Azure Pass subscription is a two step process.
 
@@ -18,27 +15,27 @@ Creating an Azure Pass subscription is a two step process.
 
     > [!KNOWLEDGE] It is recommended you close all browsers and open a new In-Private Browser session. Other log-ins can persist and cause errors during the activation step.
 
-1. Click the start button to get started.
+1. Click the **Start** button to get started.
 	
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/1.jpg)	
 
-1. Enter your account login information +++@lab.CloudCredential(WWLM365EnterpriseBlank15SStakeholderKimFrank).AdministrativeUsername+++ and select “Next”.
+1. Enter your account login information +++@lab.CloudCredential(WWLM365EnterpriseBlank15SStakeholderKimFrank).AdministrativeUsername+++ and select **Next**.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
 
-1. Enter your current password +++@lab.CloudCredential(WWLM365EnterpriseBlank15SStakeholderKimFrank).AdministrativePassword+++ select “Sign In”.
+1. Enter your current password +++@lab.CloudCredential(WWLM365EnterpriseBlank15SStakeholderKimFrank).AdministrativePassword+++ select **Sign In**.
 
-1. Enter your current password again, create a new strong password to enter into the **New password** and **Confirm password** fields, and select “Sign In”.
+1. Enter your current password again, create a new strong password to enter into the **New password** and **Confirm password** fields, and select **Sign In**.
 
     > [!NOTE] Enter your new password here: @lab.TextBox(Password)
 
 1. To stay signed in, select **Yes**.
 
-1. Click “Confirm Microsoft Account” if the correct email address is listed.
+1. Click **Confirm Microsoft Account** if the correct email address is listed.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
 	
-1. Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box, solve the Captcha, and click “Submit”.
+1. Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box, solve the Captcha, and click **Submit**.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
 	
@@ -54,11 +51,11 @@ Creating an Azure Pass subscription is a two step process.
 
     ![IMAGE](images/001ap15s.PNG)
 	
-1. Click the agreement check box and click the “Sign up” button.
+1. Click the agreement check box and click the **Sign up** button.
 	
     ![IMAGE](images/002ap15s.PNG)
 	
-1. Once the account has been successfully setup, click “Submit”.
+1. Once the account has been successfully setup, click **Submit**.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_1.jpg)
 
