@@ -69,7 +69,7 @@ Creating an Azure Pass subscription is a two step process.
 	
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_4.jpg)
 	
-1. Once the account has been successfully setup, click **Submit**.
+1. While the account is being setup, you may submit feedback and click **Submit**.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_1.jpg)
 
