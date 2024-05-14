@@ -29,6 +29,10 @@ Creating an Azure Pass subscription is a two step process.
 
 1. Enter your current password +++@lab.CloudCredential(WWLM365Enterprise201920SStakeholderKimFrank).AdministrativePassword+++ select **Sign In** and **Next**.
 
+1. If you receive an **Update your password** dialog, enter your current password again, create a new strong password to enter into the **New password** and **Confirm password** fields, and select **Sign In**.
+
+    > [!NOTE] Enter your new password here: @lab.TextBox(Password)
+
 1. Select **I want to set up a different method** and select **Next**.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_2.jpg)
