@@ -33,7 +33,7 @@ Creating an Azure Pass subscription is a two step process.
 
     > [!NOTE] Enter your new password here: @lab.TextBox(Password)
 
-1. Select **I want to set up a different method** and select **Next**.
+1. If you receive a **More information required** dialog, select **Next** and then **I want to set up a different method** and select **Next**.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_2.jpg)
 
