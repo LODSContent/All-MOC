@@ -49,11 +49,11 @@ Creating an Azure Pass subscription is a two step process.
 
 1. Enter your account information, and a valid street address.
 
-    ![IMAGE](images/001ap15s.PNG)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/001ap15s.PNG)
 	
 1. Click the agreement check box and click the **Sign up** button.
 	
-    ![IMAGE](images/002ap15s.PNG)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/002ap15s.PNG)
 	
 1. Once the account has been successfully setup, click **Submit**.
 
@@ -65,7 +65,7 @@ Creating an Azure Pass subscription is a two step process.
 	
 1. Your subscription is ready.
 	
-    ![IMAGE](images/003ap15s.PNG)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/003ap15s.PNG)
 
 1. You can check the balance of your Azure Pass Credits on +++https://www.microsoftazuresponsorships.com/balance+++
 
