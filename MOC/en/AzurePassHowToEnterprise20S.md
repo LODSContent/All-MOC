@@ -25,13 +25,13 @@ Creating an Azure Pass subscription is a two step process.
 
 1. If you receive the following dialog box Select **Work or school account**.
 
-    ![IMAGE](images/00120s.PNG)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/00120s.PNG)
 
 1. Enter your current password +++@lab.CloudCredential(WWLM365Enterprise201920SStakeholderKimFrank).AdministrativePassword+++ select **Sign In** and **Next**.
 
 1. Select **I want to set up a different method** and select **Next**.
 
-    ![IMAGE](images/00220s.PNG)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_2.jpg)
 
 1. In the dropdown, select **Phone** and click **Confirm**.
 
@@ -75,7 +75,7 @@ Creating an Azure Pass subscription is a two step process.
 	
 1. Your subscription is ready.
 	
-    ![IMAGE](images/003ap15s.PNG)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/)/003ap15s.PNG)
 
 1. You can check the balance of your Azure Pass Credits on +++https://www.microsoftazuresponsorships.com/balance+++
 
