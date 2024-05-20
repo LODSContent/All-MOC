@@ -1,0 +1,19 @@
+# Engenharia de Dados com Azure Databricks
+
+Utilize este ambiente hospedado para completar os exercícios práticos. Existem vários exercícios, cada um em sua própria página neste painel.
+
+Os exercícios são projetados para funcionar independentemente uns dos outros e incluem instruções para criar espaços de trabalho Azure Databricks. No entanto, você pode reutilizar o espaço de trabalho que criar no primeiro exercício nos exercícios subsequentes. Se você encerrar e reiniciar o ambiente, precisará recriar seus recursos na nuvem.
+
+> **Dica**: Ao seguir as instruções neste painel, sempre que vir um ícone de +++mais+++, você pode usá-lo para copiar texto do painel de instruções para a interface da máquina virtual. Isso é particularmente útil para copiar código; mas tenha em mente que você pode precisar modificar o código colado para corrigir níveis de indentação ou formatação antes de executá-lo!
+
+Faça login no Windows usando as seguintes credenciais:
+
+- **Nome de usuário**: +++@lab.VirtualMachine(DP-3011-VM).Username+++
+- **Senha**: +++@lab.VirtualMachine(DP-3011-VM).Password+++
+
+Durante os exercícios, use as seguintes credenciais para fazer login na assinatura do Azure @lab.CloudSubscription.Name que é fornecida para você (você também pode encontrar estas informações na guia **Recursos** deste painel):
+
+- **Nome de usuário**: +++@lab.CloudPortalCredential(User1-).Username+++
+- **Senha**: +++@lab.CloudPortalCredential(User1-).Password+++
+
+Use o botão **Próximo >** na parte inferior deste painel para avançar para o primeiro exercício.
