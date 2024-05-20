@@ -10,15 +10,20 @@
 
 1. In the Welcome to Azure Cloud Shell dialog, select **PowerShell**.
 
-1. On the you have no storage mounted screen select **Show advanced settings**.
+1. On the Getting Started screen select **Mount Storage Account**.
 
-1. In the advanced settings screen, fill in the following fields, then click **Create Storage**:
+1. In the Storage account subscription drop down, select your subscription then **apply**.
+
+1. In the Mount Storage Account screen, select **I want to create a storage account**.
+
+1. On the Create Storage Account screen, fill in the following fields, then click **Create**:
 
     |||
     |--|--|
-    |Resource group|A Resource Group that is **not** NetworkWatcherRG|
-    |Storage account (Create new)|+++cloudshell@lab.LabInstance.Id+++|
-    |File share (create new)|+++shellstorage+++|
+    |Resource group|Select the existing Resource Group that is **not** NetworkWatcherRG|
+    |Storage account |Enter +++cloudshell@lab.LabInstance.Id+++|
+    |File share |Enter +++shellstorage+++|
+    |Region|Select a Region nearest to you|
     
     >[!KNOWLEDGE] If you receive a "Tenant User Over Quota" error, change your **Cloud Shell Region** to an alternative region.
 
