@@ -43,9 +43,7 @@ Creating an Azure Pass subscription is a two step process.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/YourProfile.png)
 
-1. On the 'Protect you account' page select 'Next' to continue, then **close** out of the Account tab.
-
-1. You can check the balance of your Azure Pass Credits on +++https://www.microsoftazuresponsorships.com/balance+++
+1. On the 'Protect you account' page select 'Next' to continue, then brows to +++https://www.microsoftazuresponsorships.com/balance+++ to check the balance of your Azure Pass Credits.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/9.jpg)
     
