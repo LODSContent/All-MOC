@@ -27,6 +27,18 @@ Creating an Azure Pass subscription is a two step process.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
 
+1. Click “Confirm” if the correct email address is listed.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
+	
+1. Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box and click “Claim Promo Code”.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
+	
+1. It may take up to 5 minutes to process the redemption.
+
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
+
 1. On the 'More information required' page, select "Next."
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_1.jpg)
@@ -52,18 +64,6 @@ Creating an Azure Pass subscription is a two step process.
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_6.jpg)
 
 1. If you see a 'Verify your identity' page, select the Text option to receive another code to validate your sign-in, otherwise on the 'Stay signed in?' page, select 'Yes.'
-
-1. Click “Confirm” if the correct email address is listed.
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
-	
-1. Enter your promo code +++@lab.CloudCredential(PromoCode).PromoCode+++ in the Promo code box and click “Claim Promo Code”.
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/4.jpg)
-	
-1. It may take up to 5 minutes to process the redemption.
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
 	
 ## Step 2: Activate your subscription:
 
