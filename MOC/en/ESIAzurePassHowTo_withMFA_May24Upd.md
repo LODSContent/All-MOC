@@ -27,7 +27,7 @@ Creating an Azure Pass subscription is a two step process.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/2.jpg)
 
-1. Click “Confirm” if the correct email address is listed.
+1. Click “Confirm Microsoft Account” if the correct email address is listed.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/3.jpg)
 	
@@ -39,55 +39,11 @@ Creating an Azure Pass subscription is a two step process.
 
     !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/5.jpg)
 
-1. On the 'More information required' page, select "Next."
+1. On the 'Your profile' page, fill out the form, ensuring you use your **actual** phone number, then select 'Sign Up'.
 
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_1.jpg)
+    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/YourProfile.png)
 
-1. On the 'Keep your account secure' page, it is recommended you select the 'I want to set up a different method' link to sign up for Multi-Factor Authentication (MFA).
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_2.jpg)
-
-1. On the 'Choose a different method' modal window, choose 'Phone' from the drop-down menu and select 'Confirm.'
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_3.jpg)
-
-1. On the 'Phone' page, enter your SMS-enabled phone number to receive a verification code via SMS, then select 'Next.'
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_4.jpg)
-
-1. On the next page, enter the code your receive via SMS and select 'Next.'
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_5.jpg)
-
-1. You should now see a 'Verification complete' message. Select 'Next' and 'Done' to continue.
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_05_09_2024_MFA/2_6.jpg)
-
-1. If you see a 'Verify your identity' page, select the Text option to receive another code to validate your sign-in, otherwise on the 'Stay signed in?' page, select 'Yes.'
-	
-## Step 2: Activate your subscription:
-
-1. When the redemption process is completed, it will redirect to the sign up page.
-
-1. Enter your account information and click “Next”.
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/6.jpg)
-	
-1. Click the agreement check box and click the Sign up button.
-	
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_4.jpg)
-	
-1. Enter your account information and click “Submit”.
-
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_1.jpg)
-
-1. It may take a few minutes to process the request.
-    
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_12_4_2020/Screenshot_3.jpg)
-	
-1. Your subscription is ready.
-	
-    !IMAGE[](https://lodmanuals.blob.core.windows.net/manuals/LODS%20Media/Azure%20Pass%20How-To/Updated_04_28_2020/8.jpg)
+1. On the 'Protect you account' page select 'Next' to continue, then close out of the Account tab.
 
 1. You can check the balance of your Azure Pass Credits on +++https://www.microsoftazuresponsorships.com/balance+++
 
