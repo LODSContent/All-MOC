@@ -9,6 +9,8 @@
     - **ユーザー名**：+++@lab.VirtualMachine(Win11-CL-01).Username+++
     - **パスワード**：+++@lab.VirtualMachine(Win11-CL-01).Password+++
 
+>[!alert] Microsoftは、Microsoft Fabricの容量に関する問題を特定し、このラボの体験に影響を与えていることを確認しました。学習者は以下の手順を完了できません。ご迷惑をおかけし申し訳ございませんが、問題を早急に解決するためにMicrosoftと協力して取り組んでいます。
+
 ## 無料の Power BI アカウントを作成する
 
 1. 仮想マシンで、ウェブブラウザを開き、+++https://app.fabric.microsoft.com+++ に移動します。
