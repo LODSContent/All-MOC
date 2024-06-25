@@ -243,7 +243,8 @@ In this exercise, you will import the Power Apps Solutions created in the previo
 1. Open the **Completed** Folder within the correct Lab Number and Open the **Permit Management zip file** solution.
 
 1. Select **Next**, **Next** again and **Import**.
-       >[!NOTE] Importing the Zip file may take a few minutes to complete. Solutions will populate within the user interface on completion.
+
+   >[!NOTE] Importing the Zip file may take a few minutes to complete. Solutions will populate within the user interface on completion.
 
 1. Select the **Permit Management** Solution and verify the solution is populated with Objects.
 
