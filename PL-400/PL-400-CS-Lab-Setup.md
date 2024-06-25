@@ -82,6 +82,10 @@ In this exercise, you will add Power Apps for Developer to the tenant and assign
 
 ### Task 2.1 – Sign into the Microsoft 365 admin portal
 
+>[!Alert] If you're asked to change the password, you may record the new password here:
+
+@lab.TextBox(M365PW)
+
 1. Verify that you have your **Microsoft 365 credentials** from the Authorized Lab Host available.
 
 1. Navigate to the Microsoft 365 admin center `https://admin.microsoft.com`
