@@ -21,7 +21,7 @@ Tenants must not be converted to a paid subscription. Tenants obtained as a part
 
 1. From the lab virtual machine, select the Windows **Start** icon and search for **PowerShell** then open **PowerShell as Administrator**.
 
-   ![Start Powershell as administrator.](../images/L00/start-powershell.png)
+   ![Start Powershell as administrator.](./L00/start-powershell.png)
 
 1. Select **Yes** if prompted.
 
@@ -54,7 +54,7 @@ Tenants must not be converted to a paid subscription. Tenants obtained as a part
    Move-item -Path "C:\LabFiles\PL-400_Microsoft-Power-Platform-Developer-master\Allfiles\Labs\*" -Destination "C:\LabFiles" -confirm: $false
    ```
 
-    ![Powershell commands.](../images/L00/powershell-commands.png)
+    ![Powershell commands.](./L00/powershell-commands.png)
 
 1. Delete files not required for labs.
 
@@ -71,7 +71,7 @@ Tenants must not be converted to a paid subscription. Tenants obtained as a part
    > [!NOTE]
    > Please note, the files are copied to C:\Labfiles and whenever asked to navigate to a lab files, you should use this location.
 
-    ![Labfiles folders.](../images/L00/labfiles-folder.png)
+    ![Labfiles folders.](./L00/labfiles-folder.png)
 
 1. Close the PowerShell window.
 
@@ -130,7 +130,7 @@ In this exercise, you will add Power Apps for Developer to the tenant and assign
 
 1. Select your user, **MOD Administrator**, to open the user details panel and select the **Licenses and apps** tab. 
 
-    ![Mod Administrator licenses.](../images/L00/mod-administrator-dev.png)
+    ![Mod Administrator licenses.](./L00/mod-administrator-dev.png)
 
 1. Verify that **Microsoft Power Apps for Developer** is checked. Check it, if not.
 
@@ -147,11 +147,11 @@ In this exercise, you will add Power Apps for Developer to the tenant and assign
 
 1. Check the boxes next to the other users, click on the **ellipses (...)** in the action bar, and select **Manage product licenses**.
 
-    ![Select other users.](../images/L00/select-users.png)
+    ![Select other users.](./L00/select-users.png)
 
 1. Select **Assign more** and check the box for **Microsoft Power Apps for Developer**.
 
-    ![Add more licenses.](../images/L00/add-licenses-dev.png)
+    ![Add more licenses.](./L00/add-licenses-dev.png)
 
 1. Select **Save changes**.
 
@@ -175,7 +175,7 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1. Select **+ New**.
 
-    ![Environment in the Power Platform admin center.](../images/L00/ppac-environments.png)
+    ![Environment in the Power Platform admin center.](./L00/ppac-environments.png)
 
 1. In the **Name** text box, enter `[my initials] Development`. (Example: PL Development).
 
@@ -183,17 +183,17 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1. Leave all other selections as default and select **Next**.
 
-    ![New environment.](../images/L00/new-environment.png)
+    ![New environment.](./L00/new-environment.png)
 
 1. On the **Add Dataverse** tab, select **Save**.
 
 1. Your **Development** environment should now show in the list of environments.
 
-    ![Environment in the Power Platform admin center.](../images/L00/ppac-environments-dev.png)
+    ![Environment in the Power Platform admin center.](./L00/ppac-environments-dev.png)
 
 1. Your Development environment may take a few minutes to provision. Refresh the list if needed. When the environment shows as **Ready**, select the **Development** environment by selecting the ellipsis (...) menu next to the name to expand the drop-down menu and selecting **Settings**.
 
-    ![Environment in the Power Platform admin center.](../images/L00/ellipses-settings-dev.png)
+    ![Environment in the Power Platform admin center.](./L00/ellipses-settings-dev.png)
 
 1. Explore the different areas in **Settings** that you may be interested in but do not make any changes yet.
 
@@ -214,7 +214,7 @@ In this exercise, you will create a *Development* environment that you will do t
 
 1. You should now see the following environments; Contoso (default), Development, and Live.
 
-    ![Environments.](../images/L00/environments-all.png)
+    ![Environments.](./L00/environments-all.png)
 
     > **Important**:
     > You will use the *Development* environment for all customizations in the labs. The *Live* environment will act as your test/production environment.
