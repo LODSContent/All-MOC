@@ -228,8 +228,25 @@ In this exercise, you will create a *Development* environment that you will do t
 
 In this exercise, you will import the Power Apps Solutions created in the previous labs.
 
-### Task 4.1 – Redeem Azure Pass
+### Task 4.1 – Import Permit Management Solution
 
-1. Navigate to **Environments** in the Power Platform admin center `https://admin.powerplatform.microsoft.com/environments` and select your **Dev** Environment. 
+1. Navigate to **Environments** in the Power Platform admin center `https://make.powerapps.com`.
+  
+1. In the top right select your **Dev** Environment.
+
+1. Select **Solutions** on the left panel.
+
+1. Select **Import Solution** on the top of the page.
+
+1. Choose **Browse** and navigate to **C:\LabFiles**, Select the previous Lab numbers folder (*example: if you are currently working on Lab 11&12, select **L10** folder, for Lab 13, Select the L12 Folder*).
+
+1. Open the **Completed** Folder within the correct Lab Number and Open the **Permit Management zip file** solution.
+
+1. Select **Next**, **Next** again and **Import**.
+       >[!NOTE] Importing the Zip file may take a few minutes to complete. Solutions will populate within the user interface on completion.
+
+1. Select the **Permit Management** Solution and verify the solution is populated with Objects.
+
+1. Select **Publish All Customizations** at the top of the page.
 
 
