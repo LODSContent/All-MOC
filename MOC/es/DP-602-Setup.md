@@ -9,6 +9,8 @@
     - **Nombre de usuario**: +++@lab.VirtualMachine(Win11-CL-01).Username+++
     - **Contraseña**: +++@lab.VirtualMachine(Win11-CL-01).Password+++
 
+>[!alert] Microsoft ha identificado problemas de capacidad con Microsoft Fabric que están afectando la experiencia de este laboratorio. Los estudiantes no podrán completar los siguientes pasos. Pedimos disculpas y estamos trabajando junto con Microsoft para resolver el problema lo antes posible.
+
 ## Crear una cuenta gratuita de Power BI
 
 1. En la máquina virtual, abre un navegador web y ve a +++https://app.fabric.microsoft.com+++.
