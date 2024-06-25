@@ -1,3 +1,5 @@
+>[!alert] Fabric Trial redemption is currently unavailable. You will be able to complete all steps in Power BI desktop. Please skip the Trial redemption steps below the Publish the Report section at the end of the lab.
+
 ## Create a free-tier Power BI account
 
 1. In the virtual machine, open a web browser and browse to +++https://app.fabric.microsoft.com+++.
