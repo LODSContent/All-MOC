@@ -9,6 +9,8 @@
     - **User name**: +++@lab.VirtualMachine(Win11-CL-01).Username+++
     - **Password**: +++@lab.VirtualMachine(Win11-CL-01).Password+++
 
+>[!alert] Microsoft has identified capacity concerns with the Microsoft Fabric that are impacting this labs experience. Learners will not be able to complete the below steps. We apologize and are working alongside Microsoft to resolve the issue as soon as possible.
+
 ## Create a free-tier Power BI account
 
 1. In the virtual machine, open a web browser and browse to +++https://app.fabric.microsoft.com+++.
