@@ -21,55 +21,55 @@ Tenants must not be converted to a paid subscription. Tenants obtained as a part
 
 1. From the lab virtual machine, select the Windows **Start** icon and search for **PowerShell** then open **PowerShell as Administrator**.
 
-   ![Start Powershell as administrator.](./L00/start-powershell.png)
+    ![Start Powershell as administrator.](./L00/start-powershell.png)
 
 1. Select **Yes** if prompted.
 
 1. Run the following commands to download the latest version of the lab files to the virtual machine.
 
-   > [!NOTE]
-   > If any of the commands fail run them again until they are successful.
+    > [!NOTE]
+    > If any of the commands fail run them again until they are successful.
 
 1. Create folder for lab files.
 
-   ```powershell
-   New-Item -Path "C:\" -Name "LabFiles" -ItemType "directory"   
-   ```
+    ```powershell
+    New-Item -Path "C:\" -Name "LabFiles" -ItemType "directory"   
+    ```
 
 1. Download ZIP file from GitHub.
 
-   ```powershell
-   ([System.Net.WebClient]::new()).DownloadFile('https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/archive/master.zip', 'C:\LabFiles\master.zip')
-   ```
+    ```powershell
+    ([System.Net.WebClient]::new()).DownloadFile('https://github.com/MicrosoftLearning/PL-400_Microsoft-Power-Platform-Developer/archive/master.zip', 'C:\LabFiles\master.zip')
+    ```
 
 1. Expand ZIP file.
 
-   ```powershell
-   Expand-Archive -Path 'C:\LabFiles\master.zip' -DestinationPath 'C:\LabFiles'
-   ```
+    ```powershell
+    Expand-Archive -Path 'C:\LabFiles\master.zip' -DestinationPath 'C:\LabFiles'
+    ```
 
 1. Move files to C:\Labfiles
 
-   ```powershell
-   Move-item -Path "C:\LabFiles\PL-400_Microsoft-Power-Platform-Developer-master\Allfiles\Labs\*" -Destination "C:\LabFiles" -confirm: $false
-   ```
+    ```powershell
+    Move-item -Path "C:\LabFiles\PL-400_Microsoft-Power-Platform-Developer-master\Allfiles\Labs\*" -Destination "C:\LabFiles" -confirm: $false
+    ```
 
     ![Powershell commands.](./L00/powershell-commands.png)
 
 1. Delete files not required for labs.
 
-   ```powershell
-   Remove-item 'C:\LabFiles\PL-400_Microsoft-Power-Platform-Developer-master' -recurse -force
-   ```
+    ```powershell
+    Remove-item 'C:\LabFiles\PL-400_Microsoft-Power-Platform-Developer-master' -recurse -force
+    ```
 
 1. Delete zip file.
 
-   ```powershell
-   Remove-item 'C:\LabFiles\master.zip'
-   ```
+    ```powershell
+    Remove-item 'C:\LabFiles\master.zip'
+    ```
 
-   > [!NOTE]
-   > Please note, the files are copied to C:\Labfiles and whenever asked to navigate to a lab files, you should use this location.
+    > [!NOTE]
+    > Please note, the files are copied to C:\Labfiles and whenever asked to navigate to a lab files, you should use this location.
 
     ![Labfiles folders.](./L00/labfiles-folder.png)
 
