@@ -1,0 +1,10 @@
+> **Consejo**: A medida que siga las instrucciones de este panel, cada vez que vea un icono +++++, puede usarlo para copiar texto del panel de instrucciones a la interfaz de la máquina virtual. Esto es particularmente útil para copiar código; Pero tenga en cuenta que es posible que deba modificar el código pegado para corregir los niveles de sangría o el formato antes de ejecutarlo.
+
+Inicie sesión en Windows como **@lab. Máquina virtual(AI-102-WIn11). Nombre de usuario** cuenta con la contraseña +++@lab. Máquina virtual(AI-102-WIn11). Contraseña+++.
+
+Durante el ejercicio de laboratorio, use las siguientes credenciales para iniciar sesión en la suscripción de Azure que se le proporciona:
+
+- **Nombre de usuario**: +++@lab. CloudPortalCredential(Usuario1). Nombre de usuario+++
+- **Contraseña**: +++@lab. CloudPortalCredential(Usuario1). Contraseña+++
+
+Cree todos los recursos de Azure en el archivo **@lab. CloudResourceGroup(ResourceGroup1). Nombre** grupo de recursos.
