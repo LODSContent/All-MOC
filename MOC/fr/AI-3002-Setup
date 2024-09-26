@@ -1,0 +1,10 @@
+> **Astuce** : Lorsque vous suivez les instructions de ce volet, chaque fois que vous voyez une icône +++++, vous pouvez l’utiliser pour copier du texte du volet d’instructions dans l’interface de la machine virtuelle. Ceci est particulièrement utile pour copier du code ; Mais gardez à l’esprit que vous devrez peut-être modifier le code collé pour corriger les niveaux d’indentation ou le formatage avant de l’exécuter !
+
+Connectez-vous à Windows en tant que **@lab. VirtualMachine(AI-102-WIn11). Nom d’utilisateur** avec le mot de passe +++@lab. VirtualMachine(AI-102-WIn11). Mot de passe+++.
+
+Au cours de l’exercice pratique, utilisez les informations d’identification suivantes pour vous connecter à l’abonnement Azure qui vous est fourni :
+
+- **Nom d’utilisateur** : +++@lab. CloudPortalCredential(Utilisateur1). Nom d’utilisateur+++
+- **Mot de passe** : +++@lab. CloudPortalCredential(Utilisateur1). Mot de passe+++
+
+Créez toutes les ressources Azure dans le **@lab. CloudResourceGroup(ResourceGroup1). Nom** groupe de ressources.
