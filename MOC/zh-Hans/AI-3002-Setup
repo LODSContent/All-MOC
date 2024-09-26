@@ -1,0 +1,10 @@
+> **提示**：按照此窗格中的说明操作时，只要看到 +++icon+++，就可以使用它将文本从说明窗格复制到虚拟机界面中。这对于复制代码特别有用;但请记住，在运行之前，您可能需要修改粘贴的代码以修复缩进级别或格式设置！
+
+以 @lab 身份登录 Windows。虚拟机 （AI-102-WIn11）.密码为 +++@lab 的用户名** 帐户。虚拟机 （AI-102-WIn11）.密码 +++。
+
+在实验室练习期间，使用以下凭据登录到为您提供的 Azure 订阅：
+
+- **用户名**：+++@lab。CloudPortalCredential（User1） 的用户名 +++
+- **密码**：+++@lab。CloudPortalCredential（User1） 的密码 +++
+
+在 **@lab中创建所有 Azure 资源。CloudResourceGroup（ResourceGroup1） 的 ResourceGroup 中。名称** 资源组。
