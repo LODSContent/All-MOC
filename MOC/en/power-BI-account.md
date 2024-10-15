@@ -7,7 +7,7 @@
     - **Email**: +++@lab.CloudPortalCredential(User1).Username+++
     - **Password**: +++@lab.CloudPortalCredential(User1).Password+++
 
-3. Complete the sign up process to create a new account, entering the phone number +++555 1234567+++ when prompted.
+3. Complete the sign up process to create a new account. If prompted for a phone number, enter +++555 1234567+++ 
 
 ## Activate a Fabric trial
 
