@@ -16,4 +16,6 @@ Nome utente: +++@lab.VirtualMachine(LON-CL1).Username+++
 
 Password: +++@lab.VirtualMachine(LON-CL1).Password+++
 
+---
 Selezionare Avanti per procedere ai laboratori.
+===
