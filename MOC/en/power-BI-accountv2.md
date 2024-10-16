@@ -11,11 +11,11 @@
 
 1. You will see a Power BI Icon while the account is being provisioned, please do not refresh page or navigate away from this page until it has completed.  This process can take 5 minutes or longer to complete:
 
-    !IMAGE[uk4r1kzj.jpg](instructions276555/uk4r1kzj.jpg)
+    ![image1](images/uk4r1kzj.jpg)
 
 1. When provisioning is complete, you will see this screen, please click **Continue**:
 
-    !IMAGE[h93b1dvf.jpg](instructions276555/h93b1dvf.jpg)
+    ![image2](images/h93b1dvf.jpg)
 
 1. If prompted for a phone number on the **Create your account** page, enter +++555 1234567+++ and then click **Get Started**.
 
