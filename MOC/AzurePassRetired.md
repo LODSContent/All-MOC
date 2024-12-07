@@ -1,0 +1,1 @@
+>[!alert] Microsoft has retired Azure Passes and they are no longer available. You may still be able to complete portions of this lab with the supplied Microsoft Tenant. Please reach out to your training organization for assistance.
