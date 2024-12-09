@@ -24,13 +24,6 @@ Password: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 > - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
 > - Password: +++@lab.CloudPortalCredential(LabUser).Password+++
 
-<u>**Microsoft 365**</u>
-
-Username: @lab.CloudCredential(M365).AdministrativeUsername
-
-Password: @lab.CloudCredential(M365).AdministrativePassword
-
-Tenant Prefix: @lab.CloudCredential(M365).TenantPrefix
 
 ---
 
