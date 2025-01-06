@@ -9,4 +9,4 @@
 
 1. Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
 
-1. Click **Next** to proceed to the lab.
+Click **Next** to proceed to the lab.
