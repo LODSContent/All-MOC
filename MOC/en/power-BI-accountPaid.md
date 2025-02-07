@@ -2,7 +2,7 @@
 
 1. In the virtual machine, open a web browser and browse to +++https://app.fabric.microsoft.com+++.
 
-> [!HINT] The Azure Account associated with this lab provides access to Paid Fabric Capacity.
+    > [!HINT] The Azure Account associated with this lab provides access to Paid Fabric Capacity.
 
 1. When prompted, sign in using the following credentials:
 
