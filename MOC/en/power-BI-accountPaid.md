@@ -24,3 +24,5 @@
 1. On the Confirmation details page click **Get Started** again.
 
 1. You will see a Power BI Icon while your environment is being prepared, please do not refresh page or navigate away from this page until it has completed.
+
+1. Click **Next** to proceed to the lab.
