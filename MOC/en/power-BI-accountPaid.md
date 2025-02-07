@@ -9,7 +9,7 @@
 
 1. In the **Stay signed in?** dialog select **Yes** to remain signed in and click **No, thanks** in the **Automatically sign in to Microsoft sites like Bing and Outlook**.
 
-1. You will see a Power BI Icon while the account is being provisioned, please do not refresh page or navigate away from this page until it has completed.  This process can take 5 minutes or longer to complete:
+1. You will see a Power BI Icon while the account is being provisioned, please do not refresh page or navigate away from this page until it has completed.
 
     ![image1](images/uk4r1kzj.jpg)
 
@@ -21,6 +21,6 @@
 
 1. On the Confirmation details page click **Get Started** again.
 
-1. You will see a Power BI Icon while your environment is being prepared, please do not refresh page or navigate away from this page until it has completed.  This can also take 5 minutes or longer to complete.   
+1. You will see a Power BI Icon while your environment is being prepared, please do not refresh page or navigate away from this page until it has completed.  
 
 ## The Azure Account associated with this lab provides access to Paid Fabric Capacity.
