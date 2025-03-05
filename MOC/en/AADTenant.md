@@ -33,4 +33,6 @@
 
     ![SwitchDir](images/FirstAAD.PNG)
 
+1. Due to **Multi-Factor Authentication (MFA)** requirements being implemented by Microsoft, you may be required to authenticate with an Authentication App when accessing the newly created tenant. This currently only impacts labs requiring learners to create a new tenant in Azure.
+
 1. Click **Next** to proceed to the lab.
