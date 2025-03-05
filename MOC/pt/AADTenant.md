@@ -35,4 +35,6 @@
 
     ![SwitchTen](images/SwitchTen.png)
 
+1. Devido aos requisitos de **Multi-Factor Authentication (MFA)** que estão a ser implementados pela Microsoft, poderá ser necessário autenticar-se com uma Aplicação de Autenticação ao aceder ao inquilino recém-criado. Atualmente, isso afeta apenas os laboratórios que exigem que os alunos criem um novo locatário no Azure.
+
 1. Clique em **Avançar** para prosseguir para o laboratório.
