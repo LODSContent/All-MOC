@@ -34,4 +34,6 @@
 
     ![SwitchTen](images/SwitchTen.png)
 
+1. Microsoft에서 구현하는 **MFA(Multi-Factor Authentication)** 요구 사항으로 인해 새로 만든 테넌트에 액세스할 때 인증 앱을 사용하여 인증해야 할 수 있습니다. 이는 현재 학습자가 Azure에서 새 테넌트를 만들어야 하는 랩에만 영향을 줍니다.
+
 1. 다음**을 클릭하여 랩으로 이동합니다
