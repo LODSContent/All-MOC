@@ -35,4 +35,6 @@
 
     ![SwitchTen](images/SwitchTen.png)
 
+1. Aufgrund der von Microsoft implementierten Anforderungen an die **mehrstufige Authentifizierung (Multi-Factor Authentication, MFA)** müssen Sie sich möglicherweise mit einer Authentifizierungs-App authentifizieren, wenn Sie auf den neu erstellten Mandanten zugreifen. Dies betrifft derzeit nur Labs, in denen Teilnehmer einen neuen Mandanten in Azure erstellen müssen.
+
 1. Klicken Sie auf Weiter, um mit dem Labor fortzufahren.
