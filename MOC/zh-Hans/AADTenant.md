@@ -35,4 +35,6 @@
 
     ![SwitchTen](images/SwitchTen.png)
 
+1. 由于 Microsoft 正在实施 **多重身份验证 （MFA）** 要求，因此在访问新创建的租户时，可能需要使用身份验证应用程序进行身份验证。这目前仅影响要求学习者在 Azure 中创建新租户的实验室。
+
 1. Click **Next** to proceed to the lab.
