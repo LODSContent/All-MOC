@@ -35,4 +35,6 @@
 
     ![SwitchTen](images/SwitchTen.png)
 
+1. En raison des exigences de l’authentification multifacteur (MFA) mises en œuvre par Microsoft, vous devrez peut-être vous authentifier auprès d’une application d’authentification lors de l’accès au locataire nouvellement créé. À l’heure actuelle, cela n’affecte que les labos qui demandent aux apprenants de créer un locataire dans Azure.
+
 1. Cliquez sur Suivant pour passer au laboratoire.
