@@ -1,6 +1,6 @@
-# AI-3016: 使用 Azure AI Studio 构建助手
+# AI-3016: 在 Azure AI Foundry 门户中开发生成式 AI 应用
 
-此实验简介提供了一个托管的虚拟机，您可以在其中完成 AI-3016 课程的实验练习：*使用 Azure AI Studio 构建助手*。
+此实验简介提供了一个托管的虚拟机，您可以在其中完成 AI-3016 课程的实验练习：*在 Azure AI Foundry 门户中开发生成式 AI 应用*。
 
 要完成实验练习，您需要一个已获得 Azure OpenAI 服务访问权限的 Azure 订阅，该服务为[有限访问](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access)服务。
 
