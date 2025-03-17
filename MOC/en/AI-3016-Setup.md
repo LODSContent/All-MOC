@@ -1,6 +1,6 @@
-# AI-3016: Build copilots with Azure AI Studio
+# AI-3016: Develop generative AI apps in Azure AI Foundry portal
 
-This lab profile provides a hosted virtual machine in which you can complete the lab exercises for course AI-3016: *Build copilots with Azure AI Studio*.
+This lab profile provides a hosted virtual machine in which you can complete the lab exercises for course AI-3016: *Develop generative AI apps in Azure AI Foundry portal*.
 
 To complete the lab exercises, you will need an Azure subscription that has been approved for access to the Azure OpenAI service, which is a [limited access](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access) service.
 
