@@ -1,6 +1,6 @@
-# AI-3016: Azure AI Studio로 코파일럿 구축하기
+# AI-3016: Azure AI Foundry 포털에서 생성형 AI 앱 개발
 
-이 실습 프로필은 AI-3016: *Azure AI Studio로 코파일럿 구축하기* 과정의 실습을 완료할 수 있는 호스팅된 가상 머신을 제공합니다.
+이 실습 프로필은 AI-3016: *Azure AI Foundry 포털에서 생성형 AI 앱 개발* 과정의 실습을 완료할 수 있는 호스팅된 가상 머신을 제공합니다.
 
 실습을 완료하려면 Azure OpenAI 서비스에 대한 액세스가 승인된 Azure 구독이 필요합니다. 이 서비스는 [제한된 액세스](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access) 서비스입니다.
 
