@@ -1,6 +1,6 @@
-# AI-3016: Azure AI Studio でコパイロットを構築する
+# AI-3016: Azure AI Foundryポータルで生成AIアプリを開発する
 
-このラボプロファイルは、コース AI-3016: *Azure AI Studio でコパイロットを構築する* のラボ演習を完了するために、ホストされた仮想マシンを提供します。
+このラボプロファイルは、コース AI-3016: *Azure AI Foundryポータルで生成AIアプリを開発する。
 
 ラボ演習を完了するには、Azure OpenAI サービスへのアクセスが承認された Azure サブスクリプションが必要です。このサービスは [限定アクセス](https://learn.microsoft.com/legal/cognitive-services/openai/limited-access) サービスです。
 
