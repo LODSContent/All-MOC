@@ -18,7 +18,7 @@ Necesitarás crear una conexión de servicio en Azure DevOps que te permitirá i
 
 1. En Canalizaciones, selecciona **Conexiones de servicio** y, después, selecciona el botón **Crear conexión de servicio**.
 
-   ![Captura de pantalla del botón para crear la nueva conexión de servicio.](images/new-service-connection.png)
+    ![Captura de pantalla del botón para crear la nueva conexión de servicio.](images/new-service-connection.png)
 
 1. En la hoja **Nueva conexión de servicio**, selecciona **Azure Resource Manager** y, después, **Siguiente** (es posible que debas desplazarte hacia abajo).
 
