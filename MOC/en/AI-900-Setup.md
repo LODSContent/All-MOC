@@ -13,5 +13,4 @@ During the lab exercise, use the following credentials to sign into the Azure su
 
 Create all Azure resources in the **@lab.CloudResourceGroup(ResourceGroup1).Name** resource group.
 
-## Module 04 lab
 > **Tip**: If you are asked to open a web page, copy the address into the web browser on this virtual machine.
