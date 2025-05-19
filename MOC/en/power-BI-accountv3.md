@@ -9,7 +9,7 @@
 
 1. In the **Stay signed in?** dialog select **Yes** to remain signed in and click **No, thanks** in the **Automatically sign in to Microsoft sites like Bing and Outlook**.
 
-1. On the **You've selected Microsoft Fabric free** page, solve the puzzle and then click **Continue**.
+1. On the **You've selected Microsoft Fabric free** page, solve the puzzle(s) and then click **Continue**.
 
 1. When prompted for a **Job title** and **Business phone number** enter `IT` and `555 1234567` and then click **Get Started**.
 
