@@ -15,8 +15,6 @@
 
 1. On the Confirmation details page click **Get Started** again.
 
-1. You will see a Power BI Icon while your environment is being prepared, please do not refresh page or navigate away from this page until it has completed.  This can also take 5 minutes or longer to complete.   
+1. You will see a Fabric Icon while your environment is being prepared, please do not refresh page or navigate away from this page until it has completed.
 
-## Thats it?  Please drive through....
-
-Now you're ready to start the exercise on the next page, using the Fabric trial license you just created.
+1. Now you're ready to start the exercise on the next page, click **Next** to continue.
