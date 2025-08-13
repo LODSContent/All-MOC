@@ -12,17 +12,18 @@ Todas as credenciais podem ser encontradas na guia **Recursos** da interface do 
 
 @lab.VirtualMachine(ML-SEA-Dev).SelectLink
 
-Nome de usuário: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
+- Nome de usuário: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
 
-Senha: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
+- Senha: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 
 <u>**Assinatura do Azure**</u>
 
-> Uma assinatura do Azure foi fornecida para seu uso neste laboratório. Use as seguintes credenciais para fazer login:
->
-> - Portal do Azure: +++https://portal.azure.com/+++
-> - Nome de usuário: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - Senha: +++@lab.CloudPortalCredential(LabUser).Password+++
+
+- Portal do Azure: +++https://portal.azure.com/+++
+  
+- Nome de usuário: +++@lab.CloudPortalCredential(LabUser).Username+++
+  
+- Senha: +++@lab.CloudPortalCredential(LabUser).Password+++
 
 
 <br>
@@ -38,8 +39,9 @@ Senha: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 
 ---
 
+
 Selecione **Próximo** para prosseguir para os laboratórios.
+
 
 ---
 
-===
