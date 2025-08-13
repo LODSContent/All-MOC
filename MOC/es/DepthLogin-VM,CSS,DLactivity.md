@@ -18,11 +18,11 @@ Contraseña: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 
 <u>**Suscripción de Azure**</u>
 
-> Se ha proporcionado una suscripción de Azure para su uso en este laboratorio. Utilice las siguientes credenciales para iniciar sesión:
->
-> - Portal de Azure: +++https://portal.azure.com/+++
-> - Nombre de usuario: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - Contraseña: +++@lab.CloudPortalCredential(LabUser).Password+++
+- Portal de Azure: +++https://portal.azure.com/+++
+  
+- Nombre de usuario: +++@lab.CloudPortalCredential(LabUser).Username+++
+  
+- Contraseña: +++@lab.CloudPortalCredential(LabUser).Password+++
 
 
 <br>
@@ -38,8 +38,10 @@ Contraseña: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 
 ---
 
+
 Seleccione **Siguiente** para continuar con los laboratorios.
+
 
 ---
 
-===
+
