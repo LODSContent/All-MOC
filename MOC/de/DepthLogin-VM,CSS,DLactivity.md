@@ -12,18 +12,19 @@ Alle Anmeldeinformationen finden Sie im **Ressourcen**-Tab der Laboroberfläche.
 
 @lab.VirtualMachine(ML-SEA-Dev).SelectLink
 
-Benutzername: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
-Passwort: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
+- Benutzername: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
+
+- Passwort: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 
 
 <u>**Azure-Abonnement**<u>
 
 
-> Ein Azure-Abonnement wurde für Ihre Nutzung in diesem Labor bereitgestellt. Bitte verwenden Sie die folgenden Anmeldeinformationen, um sich anzumelden:
->
-> - Azure-Portal: +++https://portal.azure.com/+++
-> - Benutzername: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - Passwort: +++@lab.CloudPortalCredential(LabUser).Password+++
+- Azure-Portal: +++https://portal.azure.com/+++
+
+- Benutzername: +++@lab.CloudPortalCredential(LabUser).Username+++
+
+- Passwort: +++@lab.CloudPortalCredential(LabUser).Password+++
 <br>
 
 :::ShowDownload(canDownload=False)
@@ -37,8 +38,9 @@ Passwort: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 
 ---
 
+
 Wählen Sie **Weiter**, um zu den Laboren zu gelangen.
+
 
 ---
 
-===
