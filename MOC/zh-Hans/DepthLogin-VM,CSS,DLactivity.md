@@ -12,17 +12,17 @@ img {
 
 @lab.VirtualMachine(ML-SEA-Dev).SelectLink
 
-用户名: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
+-用户名: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
 
-密码: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
+-密码: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 
 <u>**Azure 订阅**</u>
 
-> 已为您在此实验中提供了 Azure 订阅。请使用以下凭证登录：
->
-> - Azure 门户: +++https://portal.azure.com/+++
-> - 用户名: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - 密码: +++@lab.CloudPortalCredential(LabUser).Password+++
+- Azure 门户: +++https://portal.azure.com/+++
+
+- 用户名: +++@lab.CloudPortalCredential(LabUser).Username+++
+
+- 密码: +++@lab.CloudPortalCredential(LabUser).Password+++
 
 
 <br>
@@ -38,8 +38,8 @@ img {
 
 ---
 
+
 选择**下一步**继续实验。
 
----
 
-===
+---
