@@ -18,11 +18,12 @@ img {
 
 <u>**Azure サブスクリプション**</u>
 
-> このラボで使用するために Azure サブスクリプションが提供されています。サインインするには、次の資格情報を使用してください:
->
-> - Azure ポータル: +++https://portal.azure.com/+++
-> - ユーザー名: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - パスワード: +++@lab.CloudPortalCredential(LabUser).Password+++
+
+- Azure ポータル: +++https://portal.azure.com/+++
+  
+- ユーザー名: +++@lab.CloudPortalCredential(LabUser).Username+++
+  
+- パスワード: +++@lab.CloudPortalCredential(LabUser).Password+++
 
 
 <br>
@@ -38,8 +39,8 @@ img {
 
 ---
 
+
 **次へ**を選択して、ラボに進みます。
 
----
 
-===
+---
