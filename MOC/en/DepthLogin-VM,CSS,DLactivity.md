@@ -36,5 +36,3 @@ Password: +++@lab.CloudPortalCredential(User1).Password+++
 Select **Next** to proceed to the labs.
 
 ---
-
-===
