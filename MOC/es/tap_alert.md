@@ -1,0 +1,3 @@
+>[!alert]Microsoft ha implementado mayores requisitos de seguridad en las cuentas Microsoft para que requieran la Autenticación Multifactor (MFA). Para evitar que tenga que usar una aplicación de autenticación, Skillable ha implementado una actualización de nuestra solución Cloud Slice en este laboratorio, que ahora utiliza un token de Pase de Acceso Temporal (TAP).
+>
+>Este token TAP reemplaza la contraseña y evita la necesidad de autenticarse mediante MFA. La contraseña se ha reemplazado por el token TAP proporcionado en las instrucciones de este laboratorio, y tanto la contraseña como el token TAP se pueden encontrar en la pestaña Recursos en cualquier momento.
