@@ -28,3 +28,5 @@ Use these names when creating resources in Azure
 For all other resources, use the default name.
 
 > **Tip**: As you follow the instructions in this pane, whenever you see a +++icon+++, you can use it to copy text from the instruction pane into the virtual machine interface (other than to a cloud shell command line). This is particularly useful to copy code; but bear in mind you may need to modify the pasted code to fix indent levels or formatting before running it!
+
+Now, when you're ready, go to the next page to start the exercise.
