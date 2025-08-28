@@ -23,7 +23,7 @@ Azure에 로그인할 때 이 자격 증명을 사용하세요:
 Azure에서 리소스를 만들 때 이 이름들을 사용하세요:
 
 - **리소스 그룹**: +++@lab.CloudResourceGroup(ResourceGroup1).Name+++
-- **Computer Vision**: +++vision@lab.LabInstance.Id+++
+- **컴퓨터 비전**: +++vision@lab.LabInstance.Id+++
 
 다른 모든 리소스는 기본 이름을 사용하세요.
 
