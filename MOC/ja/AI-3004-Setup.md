@@ -23,7 +23,7 @@
 Azure でリソースを作成する際は、次の名前を使用してください：
 
 - **リソース グループ**: +++@lab.CloudResourceGroup(ResourceGroup1).Name+++  
-- **Computer Vision**: +++vision@lab.LabInstance.Id+++
+- **コンピュータビジョン**: +++vision@lab.LabInstance.Id+++
 
 その他のリソースについては、デフォルト名を使用してください。
 
