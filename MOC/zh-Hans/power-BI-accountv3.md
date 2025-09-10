@@ -1,5 +1,3 @@
-# 文件
-
 ## 访问预先创建的免费层 Fabric 帐户
 
 1. 在虚拟机中，打开浏览器并访问 `https://app.fabric.microsoft.com`。
