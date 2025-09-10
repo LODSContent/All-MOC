@@ -9,4 +9,5 @@
 
 1. 以 +++@lab.VirtualMachine(SEA-DEV).Username+++ 身份进行登录，密码为 +++@lab.VirtualMachine(SEA-DEV).Password+++。
 
-1. 单击下方的 **下一步”** 以继续。
+
+1. 单击下方的 **下一步"** 以继续。
