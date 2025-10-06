@@ -13,7 +13,7 @@ All credentials can be found in the **Resources** tab of the lab interface.
 @lab.VirtualMachine(DPAI-081-VM).SelectLink
 
 Username: +++@lab.VirtualMachine(DPAI-081-VM).Username+++  
-Password: +++@lab.VirtualMachine(DPAI-081-VM).Password+++
+Password: +++@lab.VirtualMachine(DPAI-081-VM).AccessToken+++
 
 <u>**Azure Credentials**</u>
 
