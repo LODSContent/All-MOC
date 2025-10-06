@@ -5,6 +5,6 @@
 在实验中，请使用以下凭据登录提供给您的Azure订阅：
 
 - **用户名**： +++@lab.CloudPortalCredential(User1).Username+++
-- **密码**： +++@lab.CloudPortalCredential(User1).Password+++
+- **密码**： +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 在 **@lab.CloudResourceGroup(ResourceGroup1).Name** 资源组中创建所有Azure资源。
