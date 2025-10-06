@@ -18,7 +18,7 @@
 2. Lorsque vous y êtes invité, connectez-vous en utilisant les informations d'identification suivantes :
 
     - **E-mail** : +++@lab.CloudPortalCredential(User1).Username+++
-    - **Mot de passe** : +++@lab.CloudPortalCredential(User1).Password+++
+    - **Mot de passe** : +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 3. Terminez le processus d'inscription pour créer un nouveau compte, en entrant le numéro de téléphone +++555 1234567+++ lorsqu'on vous le demande.
 
