@@ -5,6 +5,6 @@ Windowsに**@lab.VirtualMachine(AI-102-WIn11).Username**アカウントでログ
 実習中、以下の資格情報を使用して提供されたAzureサブスクリプションにサインインしてください：
 
 - **ユーザー名**： +++@lab.CloudPortalCredential(User1).Username+++
-- **パスワード**： +++@lab.CloudPortalCredential(User1).Password+++
+- **パスワード**： +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 すべてのAzureリソースは、**@lab.CloudResourceGroup(ResourceGroup1).Name** リソース グループに作成してください。
