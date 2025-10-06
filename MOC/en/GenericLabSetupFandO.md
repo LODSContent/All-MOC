@@ -7,7 +7,7 @@
 
     >[!KNOWLEDGE] Any links like the one above will send Ctrl+Alt+Delete to the selected machine. This can also be done the **Commands** menu (lightning bolt) in the upper-left hand corner of the screen.
 
-1. Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
+1. Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).AccessToken+++.
 
 1. This lab has been configured to automatically provision your admin user account. Once complete, **Edge** will open automatically and prompt you to sign in; you can log in with the provided credentials found under the **Resources** tab.  Should this process fail please review the note below. Otherwise you may move forward with the lab.
 
