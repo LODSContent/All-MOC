@@ -22,7 +22,7 @@ Password: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
 >
 > - Azure Portal: +++https://portal.azure.com/+++
 > - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - Password: +++@lab.CloudPortalCredential(LabUser).Password+++
+> - Password: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 
 ---
 
