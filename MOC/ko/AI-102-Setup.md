@@ -5,6 +5,6 @@
 실습 중에는 다음 자격 증명을 사용하여 제공된 Azure 구독에 로그인하십시오:
 
 - **사용자 이름**: +++@lab.CloudPortalCredential(User1).Username+++
-- **비밀번호**: +++@lab.CloudPortalCredential(User1).Password+++
+- **비밀번호**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 모든 Azure 리소스를 **@lab.CloudResourceGroup(ResourceGroup1).Name** 리소스 그룹에 생성하십시오.
