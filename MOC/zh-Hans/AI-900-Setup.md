@@ -9,7 +9,7 @@
 在实验练习过程中，使用以下凭据登录为您提供的 Azure 订阅：
 
 - **用户名**: +++@lab.CloudPortalCredential(LabUser).Username+++
-- **密码**: +++@lab.CloudPortalCredential(LabUser).Password+++
+- **密码**: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 
 请在 **@lab.CloudResourceGroup(ResourceGroup1).Name** 资源组中创建所有 Azure 资源。
 
