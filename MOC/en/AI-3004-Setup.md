@@ -16,7 +16,7 @@ Use these credentials to sign into Windows:
 Use these credentials to sign into Azure:
 
 - **Email address**: +++@lab.CloudPortalCredential(User1).Username+++
-- **Password**: +++@lab.CloudPortalCredential(User1).Password+++
+- **Password**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 ### Azure resources
 
