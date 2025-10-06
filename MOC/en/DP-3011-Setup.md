@@ -14,6 +14,6 @@ Sign into Windows using the following credentials:
 During the exercises, use the following credentials to sign into the @lab.CloudSubscription.Name Azure subscription that is provided for you (you can also find this information on the **Resources** tab of this pane):
 
 - **User name**: +++@lab.CloudPortalCredential(User1-).Username+++
-- **Password**: +++@lab.CloudPortalCredential(User1-).Password+++
+- **Password**: +++@lab.CloudPortalCredential(User1-).AccessToken+++
 
 Use the **Next >** button at the bottom of this pane to move to the first exercise.
