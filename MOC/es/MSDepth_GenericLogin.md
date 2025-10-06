@@ -14,7 +14,7 @@ Todas las credenciales se pueden encontrar en la pestaña **Recursos** de la int
 
 Nombre de usuario: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
 
-Contraseña: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
+Contraseña: +++@lab.VirtualMachine(ML-SEA-Dev).AccessToken+++
 
 <u>**Microsoft 365**</u>
 
