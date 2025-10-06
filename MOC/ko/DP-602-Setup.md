@@ -18,7 +18,7 @@
 2. 요청되면 다음 자격 증명을 사용하여 로그인하십시오.
 
     - **이메일**: +++@lab.CloudPortalCredential(User1).Username+++
-    - **비밀번호**: +++@lab.CloudPortalCredential(User1).Password+++
+    - **비밀번호**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 3. 새 계정을 만들려면 요청시 전화 번호 +++555 1234567+++ 를 입력하여 가입 프로세스를 완료하십시오.
 
