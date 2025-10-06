@@ -14,7 +14,7 @@ Alle Zugangsdaten finden Sie im Tab **Ressourcen** der Laboroberfläche.
 
 Benutzername: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
 
-Passwort: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
+Passwort: +++@lab.VirtualMachine(ML-SEA-Dev).AccessToken+++
 
 <u>**Microsoft 365**</u>
 
