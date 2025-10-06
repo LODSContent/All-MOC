@@ -14,6 +14,6 @@
 실습 중에는 다음 자격 증명을 사용하여 제공된 @lab.CloudSubscription.Name Azure 구독에 로그인하세요 (이 정보는 이 패널의 **자원** 탭에서도 찾을 수 있습니다):
 
 - **사용자 이름**: +++@lab.CloudPortalCredential(User1-).Username+++
-- **암호**: +++@lab.CloudPortalCredential(User1-).Password+++
+- **암호**: +++@lab.CloudPortalCredential(User1-).AccessToken+++
 
 이 패널 하단의 **다음 >** 버튼을 사용하여 첫 번째 실습으로 이동하세요.
