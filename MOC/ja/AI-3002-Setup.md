@@ -5,6 +5,6 @@ Windowsに@lab.VirtualMachine(AI-102-WIn11).Usernameアカウントでログイ�
 ラボの演習では、次の資格情報を使用して、提供されている Azure サブスクリプションにサインインします。
 
 - **ユーザー名**: +++@lab.CloudPortalCredential(User1).Username+++
-- **パスワード**: +++@lab.CloudPortalCredential(User1).Password+++
+- **パスワード**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 すべての Azure リソースを **@lab.CloudResourceGroup(ResourceGroup1).Name です。リソース グループの名前**
