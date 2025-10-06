@@ -14,7 +14,7 @@ All credentials can be found in the **Resources** tab of the lab interface.
 
 Username: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
 
-Password: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
+Password: +++@lab.VirtualMachine(ML-SEA-Dev).AccessToken+++
 
 ---
 
