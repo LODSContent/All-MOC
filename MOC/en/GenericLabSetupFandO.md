@@ -18,7 +18,7 @@
 
     >[!hint] If you receive a timeout message, Open **Edge** and confirm if you can or cannot log into the dynamics environmnet.  If you cannot, restart the virtual machine and re-launch the script. 
     
-1.  Open **Edge** and log in with the provided credentials +++@lab.CloudPortalCredential(1).Username+++ and password +++@lab.CloudPortalCredential(1).Password+++.
+1.  Open **Edge** and log in with the provided credentials +++@lab.CloudPortalCredential(1).Username+++ and password +++@lab.CloudPortalCredential(1).AccessToken+++.
 
 1.  If you receive a **Permissions requested** dialog, select **Accept**.
 
