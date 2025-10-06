@@ -14,6 +14,6 @@ Faça login no Windows usando as seguintes credenciais:
 Durante os exercícios, use as seguintes credenciais para fazer login na assinatura do Azure @lab.CloudSubscription.Name que é fornecida para você (você também pode encontrar estas informações na guia **Recursos** deste painel):
 
 - **Nome de usuário**: +++@lab.CloudPortalCredential(User1-).Username+++
-- **Senha**: +++@lab.CloudPortalCredential(User1-).Password+++
+- **Senha**: +++@lab.CloudPortalCredential(User1-).AccessToken+++
 
 Use o botão **Próximo >** na parte inferior deste painel para avançar para o primeiro exercício.
