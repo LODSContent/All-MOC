@@ -18,7 +18,7 @@
 2. Cuando se te solicite, inicia sesión utilizando las siguientes credenciales:
 
     - **Correo electrónico**: +++@lab.CloudPortalCredential(User1).Username+++
-    - **Contraseña**: +++@lab.CloudPortalCredential(User1).Password+++
+    - **Contraseña**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 3. Completa el proceso de registro para crear una nueva cuenta, ingresando el número de teléfono +++555 1234567+++ cuando se te solicite.
 
