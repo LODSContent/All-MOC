@@ -5,6 +5,6 @@ Log into Windows as **@lab.VirtualMachine(AI-102-WIn11).Username** account with 
 During the lab exercise, use the following credentials to sign into the Azure subscription that is provided for you:
 
 - **User name**: +++@lab.CloudPortalCredential(User1).Username+++
-- **Password**: +++@lab.CloudPortalCredential(User1).Password+++
+- **Password**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 Create all Azure resources in the **@lab.CloudResourceGroup(ResourceGroup1).Name** resource group.
