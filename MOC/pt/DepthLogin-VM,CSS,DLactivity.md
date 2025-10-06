@@ -23,7 +23,7 @@ Todas as credenciais podem ser encontradas na guia **Recursos** da interface do 
   
 - Nome de usuário: +++@lab.CloudPortalCredential(LabUser).Username+++
   
-- Senha: +++@lab.CloudPortalCredential(LabUser).Password+++
+- Senha: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 
 
 <br>
