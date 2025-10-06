@@ -23,7 +23,7 @@ img {
   
 - 사용자 이름: +++@lab.CloudPortalCredential(LabUser).Username+++
   
-- 비밀번호: +++@lab.CloudPortalCredential(LabUser).Password+++
+- 비밀번호: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 
 
 <br>
