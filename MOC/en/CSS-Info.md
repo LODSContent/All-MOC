@@ -2,6 +2,7 @@
 >
 > - Azure Portal: +++https://portal.azure.com/+++
 > - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - Password: +++@lab.CloudPortalCredential(LabUser).Password+++
+> - Password: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 >
 >This information can also be found on the Resources tab in the Lab UI.
+
