@@ -5,6 +5,6 @@ Inicie sesión en Windows como **@lab.VirtualMachine(AI-102-WIn11).Username** cu
 Durante el ejercicio de laboratorio, use las siguientes credenciales para iniciar sesión en la suscripción de Azure que se le proporciona:
 
 - **Nombre de usuario**: +++@lab.CloudPortalCredential(User1).Username+++
-- **Contraseña**: +++@lab.CloudPortalCredential(User1).AccessToken+++
+- **Token de Pase de Acceso Temporal (TAP)**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 Cree todos los recursos de Azure en el archivo **@lab.CloudResourceGroup(ResourceGroup1).Name** grupo de recursos.
