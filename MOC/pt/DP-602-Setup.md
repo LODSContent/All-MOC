@@ -18,7 +18,7 @@
 2. Quando solicitado, faça login usando as seguintes credenciais:
 
     - **E-mail**: +++@lab.CloudPortalCredential(User1).Username+++
-    - **Senha**: +++@lab.CloudPortalCredential(User1).AccessToken+++
+    - **Token de Passe de Acesso Temporário (TAP)**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 3. Complete o processo de inscrição para criar uma nova conta, inserindo o número de telefone +++555 1234567+++ quando solicitado.
 
