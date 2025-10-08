@@ -14,6 +14,6 @@
 在练习期间，请使用以下凭据登录到为您提供的 @lab.CloudSubscription.Name Azure 订阅中（您还可以在此窗格的 **资源** 选项卡中找到这些信息）：
 
 - **用户名**：+++@lab.CloudPortalCredential(User1-).Username+++
-- **密码**：+++@lab.CloudPortalCredential(User1-).AccessToken+++
+- **临时访问通行证 (TAP) 令牌**：+++@lab.CloudPortalCredential(User1-).AccessToken+++
 
 使用本窗格底部的 **下一步 >** 按钮转到第一个练习。
