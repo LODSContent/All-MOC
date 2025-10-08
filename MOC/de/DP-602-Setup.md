@@ -18,7 +18,7 @@
 2. Wenn Sie dazu aufgefordert werden, melden Sie sich mit den folgenden Anmeldeinformationen an:
 
     - **E-Mail**: +++@lab.CloudPortalCredential(User1).Username+++
-    - **Passwort**: +++@lab.CloudPortalCredential(User1).Password+++
+    - **Token für temporären Zugriffspass (TAP)**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 3. Schließen Sie den Anmeldevorgang ab, um ein neues Konto zu erstellen, und geben Sie bei Aufforderung die Telefonnummer +++555 1234567+++ ein.
 
