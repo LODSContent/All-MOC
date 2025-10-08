@@ -14,6 +14,6 @@ Melden Sie sich in Windows mit den folgenden Anmeldeinformationen an:
 Verwenden Sie während der Übungen die folgenden Anmeldeinformationen, um sich bei Ihrem Azure-Abonnement @lab.CloudSubscription.Name anzumelden (Sie finden diese Informationen auch auf der **Ressourcen**-Registerkarte in diesem Bereich):
 
 - **Benutzername**: +++@lab.CloudPortalCredential(User1-).Username+++
-- **Passwort**: +++@lab.CloudPortalCredential(User1-).Password+++
+- **Token für temporären Zugriffspass (TAP)**: +++@lab.CloudPortalCredential(User1-).AccessToken+++
 
 Verwenden Sie die Schaltfläche **Weiter >** am unteren Rand dieses Bereichs, um zur ersten Übung zu gelangen.
