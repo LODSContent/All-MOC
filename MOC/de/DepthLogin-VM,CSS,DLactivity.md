@@ -24,7 +24,7 @@ Alle Anmeldeinformationen finden Sie im **Ressourcen**-Tab der Laboroberfläche.
 
 - Benutzername: +++@lab.CloudPortalCredential(LabUser).Username+++
 
-- Passwort: +++@lab.CloudPortalCredential(LabUser).Password+++
+- Token für temporären Zugriffspass (TAP): +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 <br>
 
 :::ShowDownload(canDownload=False)
