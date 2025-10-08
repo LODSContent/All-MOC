@@ -16,7 +16,7 @@ Windows에 로그인할 때 이 자격 증명을 사용하세요:
 Azure에 로그인할 때 이 자격 증명을 사용하세요:
 
 - **이메일 주소**: +++@lab.CloudPortalCredential(User1).Username+++
-- **비밀번호**: +++@lab.CloudPortalCredential(User1).AccessToken+++
+- **임시 액세스 패스 (TAP) 토큰**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 ### Azure 리소스
 
