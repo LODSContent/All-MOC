@@ -23,7 +23,7 @@ img {
 
 - 用戶名: +++@lab.CloudPortalCredential(LabUser).Username+++
 
-- 密碼: +++@lab.CloudPortalCredential(LabUser).Password+++
+- 臨時存取通行證 (TAP) 權杖: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 
 
 
