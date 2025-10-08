@@ -16,7 +16,7 @@
 次の資格情報を使用して Azure にサインインしてください：
 
 - **メールアドレス**: +++@lab.CloudPortalCredential(User1).Username+++  
-- **パスワード**: +++@lab.CloudPortalCredential(User1).AccessToken+++
+- **時アクセスパス (TAP) トークン**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 ### Azure リソース
 
