@@ -5,6 +5,6 @@ Connectez-vous à Windows en tant que **@lab.VirtualMachine(AI-102-WIn11).Userna
 Au cours de l’exercice pratique, utilisez les informations d’identification suivantes pour vous connecter à l’abonnement Azure qui vous est fourni :
 
 - **Nom d’utilisateur** : +++@lab.CloudPortalCredential(User1).Username+++
-- **Mot de passe** : +++@lab.CloudPortalCredential(User1).AccessToken+++
+- **Jeton de Passe d’Accès Temporaire (TAP)** : +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 Créez toutes les ressources Azure dans le **@lab.CloudResourceGroup(ResourceGroup1).Name** groupe de ressources.
