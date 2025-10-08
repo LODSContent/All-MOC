@@ -14,6 +14,6 @@
 演習中には、提供されたAzureサブスクリプション@lab.CloudSubscription.Nameにサインインするために次の資格情報を使用してください（この情報はこのペインの**リソース**タブにも表示されます）：
 
 - **ユーザー名**: +++@lab.CloudPortalCredential(User1-).Username+++
-- **パスワード**: +++@lab.CloudPortalCredential(User1-).AccessToken+++
+- **時アクセスパス (TAP) トークン**: +++@lab.CloudPortalCredential(User1-).AccessToken+++
 
 このペインの一番下にある**次へ >**ボタンを使用して最初の演習に進んでください。
