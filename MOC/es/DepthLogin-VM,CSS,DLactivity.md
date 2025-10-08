@@ -22,7 +22,7 @@ Contraseña: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
   
 - Nombre de usuario: +++@lab.CloudPortalCredential(LabUser).Username+++
   
-- Contraseña: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
+- Token de Pase de Acceso Temporal (TAP): +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 
 
 <br>
