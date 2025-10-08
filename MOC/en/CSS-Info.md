@@ -2,7 +2,8 @@
 >
 > - Azure Portal: +++https://portal.azure.com/+++
 > - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - Password: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
+> - Temporary Access Pass (TAP) Token: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 >
 >This information can also be found on the Resources tab in the Lab UI.
+
 
