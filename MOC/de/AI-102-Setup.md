@@ -5,6 +5,6 @@ Melden Sie sich in Windows als Benutzer **@lab.VirtualMachine(AI-102-WIn11).User
 Verwenden Sie während des Laborexperiments die folgenden Anmeldeinformationen, um sich bei der für Sie bereitgestellten Azure-Abonnement anzumelden:
 
 - **Benutzername**: +++@lab.CloudPortalCredential(User1).Username+++
-- **Passwort**: +++@lab.CloudPortalCredential(User1).Password+++
+- **Token für temporären Zugriffspass (TAP)**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 Erstellen Sie alle Azure-Ressourcen in der Ressourcengruppe **@lab.CloudResourceGroup(ResourceGroup1).Name**.
