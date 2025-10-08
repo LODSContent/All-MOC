@@ -18,7 +18,7 @@
 2. プロンプトが表示されたら、以下の資格情報を使用してサインインしてください：
 
     - **メールアドレス**：+++@lab.CloudPortalCredential(User1).Username+++
-    - **パスワード**：+++@lab.CloudPortalCredential(User1).AccessToken+++
+    - **時アクセスパス (TAP) トークン**：+++@lab.CloudPortalCredential(User1).AccessToken+++
 
 3. 新しいアカウントを作成するために、プロンプトが表示されたら電話番号 +++555 1234567+++ を入力してサインアッププロセスを完了します。
 
