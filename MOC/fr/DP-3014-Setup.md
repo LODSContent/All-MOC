@@ -14,6 +14,6 @@ Connectez-vous à Windows en utilisant les informations d'identification suivant
 Pendant les exercices, utilisez les informations d'identification suivantes pour vous connecter à la souscription Azure @lab.CloudSubscription.Name qui vous est fournie (vous pouvez également trouver ces informations dans l'onglet **Ressources** de cette fenêtre) :
 
 - **Nom d'utilisateur** : +++@lab.CloudPortalCredential(User1-).Username+++
-- **Mot de passe** : +++@lab.CloudPortalCredential(User1-).AccessToken+++
+- **Jeton de Passe d’Accès Temporaire (TAP)** : +++@lab.CloudPortalCredential(User1-).AccessToken+++
 
 Utilisez le bouton **Suivant >** en bas de cette fenêtre pour passer au premier exercice.
