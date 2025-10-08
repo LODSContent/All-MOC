@@ -18,7 +18,7 @@ Password: +++@lab.VirtualMachine(DPAI-081-VM).Password+++
 <u>**Azure Credentials**</u>
 
 Username: +++@lab.CloudPortalCredential(User1).Username+++  
-Password: +++@lab.CloudPortalCredential(User1).AccessToken+++
+Temporary Access Pass (TAP) Token: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 <br>
 
