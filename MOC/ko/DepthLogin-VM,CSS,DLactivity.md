@@ -23,7 +23,7 @@ img {
   
 - 사용자 이름: +++@lab.CloudPortalCredential(LabUser).Username+++
   
-- 비밀번호: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
+- 임시 액세스 패스 (TAP) 토큰: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 
 
 <br>
