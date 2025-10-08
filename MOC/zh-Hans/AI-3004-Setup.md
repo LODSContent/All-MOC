@@ -16,7 +16,7 @@
 使用以下凭据登录 Azure：
 
 - **电子邮件地址**: +++@lab.CloudPortalCredential(User1).Username+++  
-- **密码**: +++@lab.CloudPortalCredential(User1).AccessToken+++  
+- **临时访问通行证 (TAP) 令牌**: +++@lab.CloudPortalCredential(User1).AccessToken+++  
 
 ### Azure 资源
 
