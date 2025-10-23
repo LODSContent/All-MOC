@@ -29,7 +29,7 @@ apt-get update -y
 ACCEPT_EULA=Y apt-get install -y mssql-tools unixodbc-dev
 
 echo "Importing bacpac into Azure SQL..."
-/opt/mssql-tools/bin/sqlpackage /Action:Import \
+/usr/local/bin/sqlpackage /Action:Import \
   /SourceFile:"$BACPAC_PATH" \
   /TargetServerName:"${SQL_SERVER}.database.windows.net" \
   /TargetDatabaseName:"$DB_NAME" \
