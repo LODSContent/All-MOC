@@ -12,13 +12,23 @@ DB_NAME="WideWorldImporters"
 BACPAC_PATH="/tmp/WideWorldImporters-Standard.bacpac"
 
 # Download BACPAC
-# echo "Downloading bacpac from $BACPAC_URL..."
 curl -L -o "$BACPAC_PATH" "$BACPAC_URL"
 
 # Install dependencies
-# echo "Installing SQL package tools..."
 apt-get update -y
-apt-get install -y unzip curl libunwind8 libicu66
+apt-get install -y unzip curl libunwind8
+
+# Install any available ICU library (Jammy = libicu70, Noble = libicu74, etc.)
+if apt-cache show libicu70 >/dev/null 2>&1; then
+  apt-get install -y libicu70
+elif apt-cache show libicu72 >/dev/null 2>&1; then
+  apt-get install -y libicu72
+elif apt-cache show libicu74 >/dev/null 2>&1; then
+  apt-get install -y libicu74
+else
+  echo "Warning: libicu version not found. Attempting fallback to libicu-dev."
+  apt-get install -y libicu-dev
+fi
 
 # Download and install sqlpackage
 curl -L https://aka.ms/sqlpackage-linux -o /tmp/sqlpackage.zip
@@ -26,14 +36,7 @@ unzip /tmp/sqlpackage.zip -d /tmp/sqlpackage
 chmod +x /tmp/sqlpackage/sqlpackage
 mv /tmp/sqlpackage/sqlpackage /usr/local/bin/sqlpackage
 
-# apt-get install -y curl apt-transport-https gnupg
-# curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add -
-# curl https://packages.microsoft.com/config/ubuntu/22.04/prod.list > /etc/apt/sources.list.d/mssql-release.list
-# apt-get update -y
-# ACCEPT_EULA=Y apt-get install -y mssql-tools unixodbc-dev
-
 # Import BACPAC
-# echo "Importing bacpac into Azure SQL..."
 /usr/local/bin/sqlpackage /Action:Import \
   /SourceFile:"$BACPAC_PATH" \
   /TargetServerName:"${SQL_SERVER}.database.windows.net" \
@@ -43,4 +46,3 @@ mv /tmp/sqlpackage/sqlpackage /usr/local/bin/sqlpackage
   /Quiet
 
 # Import Complete
-# echo "Import completed successfully!"
