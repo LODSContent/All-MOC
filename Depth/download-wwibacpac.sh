@@ -23,6 +23,7 @@ apt-get update -y || apt-get update -y  # retry once just in case
 
 # Install dependencies
 apt-get install -y unzip curl libunwind8 libicu70
+sudo apt-get install -y unzip
 
 # Download and install the last sqlpackage package
 curl -L https://aka.ms/sqlpackage-linux-2022 -o /tmp/sqlpackage.zip
