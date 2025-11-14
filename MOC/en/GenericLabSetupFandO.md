@@ -9,14 +9,7 @@
 
 1. Sign in as +++@lab.VirtualMachine(SEA-DEV).Username+++ with the password +++@lab.VirtualMachine(SEA-DEV).Password+++.
 
-1. This lab has been configured to automatically provision your admin user account. Once complete, **Edge** will open automatically and prompt you to sign in; you can log in with the provided credentials found under the **Resources** tab.  Should this process fail please review the note below. Otherwise you may move forward with the lab.
-
-    >[!note] To manually provision the admin user:
-    1. [] On the **Desktop**, double click **AdminUserProvisioning**.
-    1. [] In the **Email Address** field enter +++@lab.CloudPortalCredential(1).Username+++ and then click **Submit**.
-    1. [] Wait for the prompt to advise **Admin user successfully updated to...** and then click **OK**.
-
-    >[!hint] If you receive a timeout message, Open **Edge** and confirm if you can or cannot log into the dynamics environmnet.  If you cannot, restart the virtual machine and re-launch the script. 
+1. This lab has been configured to automatically provision your admin user account. Once complete, **Edge** will open automatically and prompt you to sign in; you can log in with the provided credentials found under the **Resources** tab.
     
 1.  Open **Edge** and log in with the provided credentials +++@lab.CloudPortalCredential(1).Username+++ and Temporary Access Pass (TAP) +++@lab.CloudPortalCredential(1).AccessToken+++.
 
