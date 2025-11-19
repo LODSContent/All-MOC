@@ -1,0 +1,47 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverfarms_az400m03l07_sp1_name": {
+            "defaultValue": "az400m03l07-sp1",
+            "type": "String"
+        },
+        "location": {
+            "type": "String",
+            "defaultValue": "eastus",
+            "metadata": {
+                "description": "Location for the App Service Plan"
+            }
+        }
+    },
+    "variables": {},
+    "resources": [
+        {
+            "type": "Microsoft.Web/serverfarms",
+            "apiVersion": "2024-11-01",
+            "name": "[parameters('serverfarms_az400m03l07_sp1_name')]",
+            "location": "[parameters('location')]",
+            "sku": {
+                "name": "B3",
+                "tier": "Basic",
+                "size": "B3",
+                "family": "B",
+                "capacity": 1
+            },
+            "kind": "app",
+            "properties": {
+                "perSiteScaling": false,
+                "elasticScaleEnabled": false,
+                "maximumElasticWorkerCount": 1,
+                "isSpot": false,
+                "reserved": false,
+                "isXenon": false,
+                "hyperV": false,
+                "targetWorkerCount": 0,
+                "targetWorkerSizeId": 0,
+                "zoneRedundant": false,
+                "asyncScalingEnabled": false
+            }
+        }
+    ]
+}
