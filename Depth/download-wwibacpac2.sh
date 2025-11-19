@@ -5,7 +5,7 @@ BACPAC_URL=$1
 SQLSERVER=$2
 SQLUSER=$3
 SQLPASS=$4
-DB_NAME="WideWorldImporters"
+DB_NAME=$5
 
 # Download sqlpackage
 mkdir -p /opt/sqlpackage
