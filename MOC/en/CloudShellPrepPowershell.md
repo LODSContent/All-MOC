@@ -4,7 +4,7 @@
     |||
     |--|--|
     |Username|+++@lab.CloudPortalCredential(LabUser).Username+++|
-    |Password|+++@lab.CloudPortalCredential(LabUser).Password+++|
+    |TAP|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
 1. In the toolbar at the top of the Azure portal, select the **Cloud Shell** icon.
 
@@ -28,3 +28,4 @@
     >[!KNOWLEDGE] If you receive a "Tenant User Over Quota" error, change your **Cloud Shell Region** to an alternative region.
 
 1. After the cloud shell initializes and puts you at a text prompt, exit the shell.
+
