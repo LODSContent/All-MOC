@@ -5,7 +5,7 @@
 1. 요청 시 다음 자격 증명을 사용하여 로그인합니다:
 
     - **이메일**: `@lab.CloudPortalCredential(User1).Username`
-    - **비밀번호**: `@lab.CloudPortalCredential(User1).Password`
+    - **TAP 토큰**: `@lab.CloudPortalCredential(User1).AccessToken`
 
 1. **계정 유지?** 대화 상자에서 **예**를 선택하여 로그인 상태를 유지하고, **Bing 및 Outlook과 같은 Microsoft 사이트에 자동으로 로그인**에서는 **아니요, 감사합니다**를 클릭합니다.
 
