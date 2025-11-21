@@ -5,7 +5,7 @@
 1. 出现提示时，请使用以下凭据登录：
 
     - **电子邮件**: `@lab.CloudPortalCredential(User1).Username`
-    - **密码**: `@lab.CloudPortalCredential(User1).Password`
+    - **TAP 代币**: `@lab.CloudPortalCredential(User1).AccessToken`
 
 1. 在 **保持登录状态？** 对话框中选择 **是** 以保持登录状态，并在 **自动登录到 Microsoft 网站（如 Bing 和 Outlook）** 中点击 **不，谢谢**。
 
