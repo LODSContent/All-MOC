@@ -4,7 +4,7 @@
     |||
     |--|--|
     |Username|+++@lab.CloudPortalCredential(LabUser).Username+++|
-    |Password|+++@lab.CloudPortalCredential(LabUser).Password+++|
+    |TAP|+++@lab.CloudPortalCredential(LabUser).Password+++|
 
 1. In the toolbar at the top of the Azure portal, select the **Cloud Shell** icon.
 
@@ -26,3 +26,4 @@
     |Region|Select a Region nearest to you|
 
 1. After the cloud shell initializes and puts you at a text prompt, exit the shell.
+
