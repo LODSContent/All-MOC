@@ -5,7 +5,7 @@
 1. Quando solicitado, entre usando as seguintes credenciais:
 
     - **Email**: `@lab.CloudPortalCredential(User1).Username`
-    - **Senha**: `@lab.CloudPortalCredential(User1).Password`
+    - **TAP**: `@lab.CloudPortalCredential(User1).AccessToken`
 
 1. Na caixa de diálogo **Manter a sessão iniciada?** selecione **Sim** para permanecer conectado e clique em **Não, obrigado** na opção **Entrar automaticamente em sites da Microsoft como Bing e Outlook**.
 
