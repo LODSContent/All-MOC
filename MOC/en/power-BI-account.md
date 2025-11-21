@@ -5,7 +5,7 @@
 2. When prompted, sign in using the following credentials:
 
     - **Email**: +++@lab.CloudPortalCredential(User1).Username+++
-    - **Password**: +++@lab.CloudPortalCredential(User1).Password+++
+    - **TAP**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 3. Complete the sign up process to create a new account. If prompted for a phone number, enter +++555 1234567+++ 
 
