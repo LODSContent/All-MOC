@@ -4,6 +4,7 @@
 >
 > - Azure Portal: +++https://portal.azure.com/+++
 > - Username: +++@lab.CloudPortalCredential(LabUser).Username+++
-> - Password: +++@lab.CloudPortalCredential(LabUser).Password+++
+> - TAP: +++@lab.CloudPortalCredential(LabUser).AccessToken+++
 >
 > You can see your available Resource Groups by checking the Resources tab above.
+
