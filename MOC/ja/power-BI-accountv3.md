@@ -5,7 +5,7 @@
 1. プロンプトが表示されたら、以下の資格情報でサインインします:
 
     - **メール**: `@lab.CloudPortalCredential(User1).Username`
-    - **パスワード**: `@lab.CloudPortalCredential(User1).Password`
+    - **TAPトークン**: `@lab.CloudPortalCredential(User1).AccessToken`
 
 1. **サインイン状態を維持しますか?** ダイアログで **はい** を選択し、**Bing や Outlook などの Microsoft サイトに自動でサインインしますか?** には **いいえ、結構です** をクリックします。
 
