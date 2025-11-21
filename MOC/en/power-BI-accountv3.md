@@ -5,7 +5,7 @@
 1. When prompted, sign in using the following credentials:
 
     - **Email**: `@lab.CloudPortalCredential(User1).Username`
-    - **TAP**: `@lab.CloudPortalCredential(User1).Password`
+    - **TAP**: `@lab.CloudPortalCredential(User1).AccessToken`
 
 1. In the **Stay signed in?** dialog select **Yes** to remain signed in and click **No, thanks** in the **Automatically sign in to Microsoft sites like Bing and Outlook**.
 
