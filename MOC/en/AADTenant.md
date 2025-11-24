@@ -5,7 +5,7 @@
     |||
     |--|--|
     |Username|+++@lab.CloudPortalCredential(LabUser).Username+++|
-    |Password|+++@lab.CloudPortalCredential(LabUser).Password+++|
+    |TAP|+++@lab.CloudPortalCredential(LabUser).AccessToken+++|
 
 1. Search for and select +++**Microsoft Entra ID**+++
 
@@ -36,3 +36,4 @@
 1. Due to **Multi-Factor Authentication (MFA)** requirements being implemented by Microsoft, you may be required to authenticate with an Authentication App when accessing the newly created tenant. This currently only impacts labs requiring learners to create a new tenant in Azure.
 
 1. Click **Next** to proceed to the lab.
+
