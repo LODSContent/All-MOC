@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serverfarms_az400m03l07_sp1_name": {
-            "defaultValue": "az400m03l07-sp1",
+            "defaultValue": "[concat('asp-', uniqueString(resourceGroup().id))]",
             "type": "String"
         },
         "location": {
