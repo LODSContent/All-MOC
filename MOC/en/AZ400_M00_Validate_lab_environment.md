@@ -10,7 +10,7 @@ You will need to create a service connection in Azure DevOps which will allow yo
 
 1. Start a web browser, navigate to the Azure DevOps portal `https://aex.dev.azure.com`.
 
-1. Sign in to the Azure DevOps organization.
+1. Sign in to the Azure DevOps organization with the **Username** and **TAP** present on the **Resources** tab.
 
    > **Note**: If this is the first time you are signing in to the Azure DevOps organization, you will be prompted create your profile and accept the terms of service, and then select **Continue**.
 
