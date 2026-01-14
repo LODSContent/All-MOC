@@ -1,0 +1,46 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverfarms_ContosoAppServicePlanOne58280722_name": {
+            "defaultValue": "ContosoAppServicePlanOne58280722",
+            "type": "String"
+        },
+        "location": {
+            "type": "String",
+            "defaultValue": "eastus",
+            "metadata": {
+                "description": "Location for the App Service Plan"
+            }
+    },
+    "variables": {},
+    "resources": [
+        {
+            "type": "Microsoft.Web/serverfarms",
+            "apiVersion": "2024-11-01",
+            "name": "[parameters('serverfarms_ContosoAppServicePlanOne58280722_name')]",
+            "location": "[parameters('location')]",
+            "sku": {
+                "name": "P1v3",
+                "tier": "PremiumV3",
+                "size": "P1v3",
+                "family": "Pv3",
+                "capacity": 1
+            },
+            "kind": "app",
+            "properties": {
+                "perSiteScaling": false,
+                "elasticScaleEnabled": false,
+                "maximumElasticWorkerCount": 1,
+                "isSpot": false,
+                "reserved": false,
+                "isXenon": false,
+                "hyperV": false,
+                "targetWorkerCount": 0,
+                "targetWorkerSizeId": 0,
+                "zoneRedundant": false,
+                "asyncScalingEnabled": false
+            }
+        }
+    ]
+}
