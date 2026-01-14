@@ -12,6 +12,7 @@
             "metadata": {
                 "description": "Location for the App Service Plan"
             }
+        }
     },
     "variables": {},
     "resources": [
