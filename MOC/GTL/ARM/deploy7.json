@@ -2,8 +2,8 @@
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "serverfarms_ContosoAppServicePlanOne58280722_name": {
-            "defaultValue": "ContosoAppServicePlanOne58280722",
+        "serverfarms_name": {
+            "defaultValue": "ContosoAppServicePlanOne",
             "type": "String"
         },
         "location": {
@@ -18,7 +18,7 @@
         {
             "type": "Microsoft.Web/serverfarms",
             "apiVersion": "2024-11-01",
-            "name": "[parameters('serverfarms_ContosoAppServicePlanOne58280722_name')]",
+            "name": "[parameters('serverfarms_name')]",
             "location": "[parameters('location')]",
             "sku": {
                 "name": "P1v3",
