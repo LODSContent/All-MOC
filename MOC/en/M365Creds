@@ -1,0 +1,5 @@
+>[!alert] Your Office 365 tenant came with a default global administrator account already created in Microsoft 365. The name of this user account is MOD Administrator. The username for this MOD Administrator account is +++@lab.CloudCredential(WWLM365EnterprisewithCalling).Username+++, which is the username assigned to your tenant in the O365 Credentials window. When you initially log into Office 365, you will log in with this MOD Administrator account of +++@lab.CloudCredential(WWLM365EnterprisewithCalling).Username+++ with the password of +++@lab.CloudCredential(WWLM365EnterprisewithCalling).Password+++.
+
+> **Note** The default password for the pre-created user accounts in the Microsoft 365 tenant is +++@lab.VirtualMachine(MS721-CLIENT01).Password+++. Unless otherwise instructed in the lab instructions, use that password to log on as the tenant users.
+
+> [!hint] This Lab supports **Redirect Clipboard** functionality in addition to +++TypeText+++.
