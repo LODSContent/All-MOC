@@ -2,4 +2,3 @@
 
 > **Note** The default password for the pre-created user accounts in the Microsoft 365 tenant is +++@lab.VirtualMachine(MS721-CLIENT01).Password+++. Unless otherwise instructed in the lab instructions, use that password to log on as the tenant users.
 
-> [!hint] This Lab supports **Redirect Clipboard** functionality in addition to +++TypeText+++.
