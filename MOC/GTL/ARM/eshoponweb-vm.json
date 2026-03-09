@@ -212,8 +212,8 @@
                 },
                 "osProfile": {
                     "computerName": "[parameters('virtualMachineComputerName')]",
-                    "adminUsername": "[parameters('adminUsername')]",
-                    "adminPassword": "[parameters('adminPassword')]",
+                    "adminUsername": "vmadmin",
+                    "adminPassword": "MySecurePassword123!",
                     "windowsConfiguration": {
                         "enableAutomaticUpdates": true,
                         "provisionVmAgent": true,
