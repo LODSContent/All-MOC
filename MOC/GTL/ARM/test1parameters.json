@@ -89,7 +89,7 @@
             "value": "vmadmin"
         },
         "adminPassword": {
-            "value": null
+            "value": "MySecurePassword123!"
         },
         "patchMode": {
             "value": "AutomaticByOS"
