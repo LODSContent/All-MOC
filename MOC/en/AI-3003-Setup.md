@@ -8,7 +8,7 @@ Sign into Windows using the following credentials:
 When signing into Azure, use the following credentials:
 
 - **Email address**: +++@lab.CloudPortalCredential(User1).Username+++
-- **Password**: +++@lab.CloudPortalCredential(User1).Password+++
+- **TAP**: +++@lab.CloudPortalCredential(User1).AccessToken+++
 
 Create all Azure resources in the +++@lab.CloudResourceGroup(ResourceGroup1).Name+++ resource group.
 
