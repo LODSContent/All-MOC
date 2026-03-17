@@ -10,19 +10,19 @@ All credentials can be found in the **Resources** tab of the lab interface.
 
 <u>**Virtual Machine**</u>
 
-@lab.VirtualMachine(ML-SEA-Dev).SelectLink
+@lab.VirtualMachine(MSDepth).SelectLink
 
-Username: +++@lab.VirtualMachine(ML-SEA-Dev).Username+++
+Username: +++@lab.VirtualMachine(MSDepth).Username+++
 
-Password: +++@lab.VirtualMachine(ML-SEA-Dev).Password+++
+Password: +++@lab.VirtualMachine(MSDepth).Password+++
 
 ---
 
-Please verify the **Lab Files** folder on the **C:\** drive.
-
->[!Alert] If the Lab Files are missing, please select the following button to download the lab files.
+>[!Alert] Please use the Download button below to clone the necessary **Lab Files** to the **C:\** drive.
 >
 >@lab.Activity(downloadGHfiles)
+>
+>Verify the **Lab Files** are in the **C:\Lab Files** folder.
 
 Select **Next** to proceed to the labs.
 
