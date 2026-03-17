@@ -1,0 +1,39 @@
+<style>
+img {
+    border: 1px solid black;
+    }
+</style>
+
+## **Credentials**
+
+All credentials can be found in the **Resources** tab of the lab interface.
+
+<u>**Virtual Machine**</u>
+
+@lab.VirtualMachine(MSDepth).SelectLink
+
+Username: +++@lab.VirtualMachine(MSDepth).Username+++
+
+Password: +++@lab.VirtualMachine(MSDepth).Password+++
+
+<u>**Azure Subscription**</u>
+
+> An Azure subscription has been provided for your use in this lab. Please use the following credentials to sign in:
+>
+> - Azure Portal: +++https://portal.azure.com/+++
+> - Username: +++@lab.CloudPortalCredential(User1).Username+++
+> - Temporary Access Pass (TAP) Token: +++@lab.CloudPortalCredential(User1).AccessToken+++
+
+---
+
+>[!Alert] Please use the Download button below to clone the necessary **Lab Files** to the **C:\** drive.
+>
+>@lab.Activity(downloadGHfiles)
+>
+>Verify the **Lab Files** are in the **C:\Lab Files** folder.
+
+---
+
+Select **Next** to proceed to the labs.
+
+===
