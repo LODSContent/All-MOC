@@ -2,7 +2,8 @@
 
 ラボ演習を開始する前に、作業用の開発環境を作成する必要があります。
 
-1. Webブラウザーを開き、`https://admin.powerplatform.microsoft.com/manage/environments` に移動し、この演習用の資格情報でサインインします。サインイン状態を維持するかどうか求められた場合は、維持するオプションを選択してください。
+1. Webブラウザーを開き、`https://admin.powerplatform.microsoft.com/manage/environments` にアクセスします。`@lab.CloudCredential(WWLM365withCopilot).AdministrativeUsername` を使用してサインインし、パスワードには `@lab.CloudCredential(WWLM365withCopilot).AdministrativePassword` を入力します。  
+サインイン状態を維持するかどうかを求められた場合は、「サインインしたままにする」を選択します。
 1. 表示されるポップアップメッセージをすべて閉じます。
 1. 左側のナビゲーションバーで **[管理]** を選択します。
 2. **[+ 新規]** を選択し、次の設定で新しい環境を作成します:
