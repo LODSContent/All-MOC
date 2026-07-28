@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverfarms_ASP_rggpfunctionsendpoint_aba9_name": {
+            "type": "string",
+            "defaultValue": "ASP-rggpfunctionsendpoint-aba9"
+        },
+        "location": {
+            "type": "string",
+            "defaultValue": "Canada Central"
+        }
+    },
+    "resources": [
+        {
+            "type": "Microsoft.Web/serverfarms",
+            "apiVersion": "2024-11-01",
+            "name": "[parameters('serverfarms_ASP_rggpfunctionsendpoint_aba9_name')]",
+            "location": "[parameters('location')]",
+            "kind": "functionapp",
+            "sku": {
+                "name": "FC1",
+                "tier": "FlexConsumption"
+            },
+            "properties": {
+                "reserved": true
+            }
+        }
+    ]
+}
