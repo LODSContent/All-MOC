@@ -11,6 +11,8 @@
 
 1. From the Azure Active Directory Overview blade, select **Manage Tenants** and then then select **+ Create** to **Create a new tenant**.
 
+1. On the **Choose a configuration for your tenant** blade, select **Workforce (Legacy)**, and then select **Continue**.
+
 1. On the **Basics** tab of the **Create a tenant** blade, select **Microsoft Entra ID**, then select **Next: Configuration**.
 
 1. On the **Configuration** tab, configure the following fields then select **Review + Create**, and then **Create**:
